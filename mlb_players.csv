@@ -1,992 +1,477 @@
-,MLBID,FIRSTNAME,LASTNAME,POS,ACTIVE
-3,682928,CJ,Abrams,SS,Y
-7,547989,Jose,Abreu,1B,Y
-12,554429,Dustin,Ackley,1B,Y
-13,660670,Ronald,Acuna,OF,Y
-14,542436,Cristhian,Adames,2B,Y
-15,642715,Willy,Adames,SS,Y
-18,458691,David,Adams,2B,Y
-19,572669,Lane,Adams,OF,Y
-20,571431,Matt,Adams,DH,Y
-23,451192,Jim,Adduci,OF,Y
-24,666176,Jo,Adell,OF,Y
-26,501303,Ehire,Adrianza,SS,Y
-29,542583,Jesus,Aguilar,1B,Y
-30,605113,Nick,Ahmed,SS,Y
-32,673451,Shogo,Akiyama,OF,Y
-35,593643,Hanser,Alberto,2B,Y
-37,645277,Ozzie,Albies,2B,Y
-40,570489,Arismendy,Alcantara,OF,Y
-45,595751,Jorge,Alfaro,C,Y
-46,546990,Anthony,Alford,OF,Y
-48,664119,Austin,Allen,C,Y
-50,656185,Greg,Allen,OF,Y
-52,501659,Abraham,Almonte,OF,Y
-54,501660,Zoilo,Almonte,OF,Y
-55,546991,Albert,Almora,OF,Y
-56,624413,Pete,Alonso,1B,Y
-57,475174,Yonder,Alonso,1B,Y
-59,571437,Aaron,Altherr,OF,Y
-60,514888,Jose,Altuve,2B,Y
-64,476883,Pedro,Alvarez,DH,Y
-66,670541,Yordan,Alvarez,DH,Y
-68,506560,Alexi,Amarista,OF,Y
-71,457762,Bryan,Anderson,C,Y
-72,605119,Brian,Anderson,3B,Y
-77,502249,Lars,Anderson,1B,Y
-80,641313,Tim,Anderson,SS,Y
-82,435180,Robert,Andino,2B,Y
-83,607430,John,Andreoli,OF,Y
-85,462101,Elvis,Andrus,SS,Y
-86,609280,Miguel,Andujar,OF,Y
-88,542883,Dean,Anna,SS,Y
-92,606157,Aristides,Aquino,OF,Y
-94,660620,Jonathan,Arauz,2B,Y
-96,516472,Francisco,Arcia,C,Y
-97,606115,Orlando,Arcia,SS,Y
-98,542455,Oswaldo,Arcia,OF,Y
-99,571448,Nolan,Arenado,3B,Y
-105,668227,Randy,Arozarena,OF,Y
-106,650333,Luis,Arraez,2B,Y
-110,624414,Christian,Arroyo,2B,Y
-111,600858,Humberto,Arteaga,SS,Y
-112,605125,Cody,Asche,DH,Y
-114,553902,Willians,Astudillo,C,Y
-115,641319,Carlos,Asuaje,2B,Y
-119,592122,Tyler,Austin,OF,Y
-120,542897,Xavier,Avery,OF,Y
-121,488671,Alex,Avila,C,Y
-128,668731,Akil,Baddoo,OF,Y
-130,664056,Harrison,Bader,OF,Y
-131,595879,Javier,Baez,SS,Y
-144,542908,Jett,Bandy,C,Y
-152,605131,Austin,Barnes,C,Y
-153,488681,Brandon,Barnes,OF,Y
-154,446381,Darwin,Barney,2B,Y
-160,571466,Tucker,Barnhart,C,Y
-163,620439,Franklin,Barreto,2B,Y
-166,663698,Joey,Bart,C,Y
-173,641343,Jake,Bauers,OF,Y
-176,622441,Rafael,Bautista,OF,Y
-181,607461,Matt,Beaty,1B,Y
-186,493596,Gordon,Beckham,2B,Y
-187,542921,Tim,Beckham,SS,Y
-194,666179,Seth,Beer,1B,Y
-200,641355,Cody,Bellinger,OF,Y
-201,605137,Josh,Bell,1B,Y
-203,474832,Brandon,Belt,1B,Y
-206,621532,Anthony,Bemboom,C,Y
-207,643217,Andrew,Benintendi,OF,Y
-209,501994,Joe,Benson,OF,Y
-215,542932,Jon,Berti,2B,Y
-222,605141,Mookie,Betts,OF,Y
-224,488703,Jeff,Bianchi,SS,Y
-226,666182,Bo,Bichette,SS,Y
-230,624415,Cavan,Biggio,2B,Y
-232,595885,Greg,Bird,1B,Y
-233,623323,Braden,Bishop,OF,Y
-236,453568,Charlie,Blackmon,OF,Y
-248,607468,Alex,Blandino,2B,Y
-251,518466,Jabari,Blash,OF,Y
-252,668709,J.J.,Bleday,OF,Y
-257,593428,Xander,Bogaerts,SS,Y
-260,664761,Alec,Bohm,3B,Y
-263,466988,Emilio,Bonifacio,OF,Y
-264,593528,Jorge,Bonifacio,OF,Y
-265,474865,Julio,Borbon,OF,Y
-268,623520,David,Bote,2B,Y
-270,488721,Peter,Bourjos,OF,Y
-271,571506,Justin,Bour,1B,Y
-283,656252,Bobby,Bradley,DH,Y
-284,598265,Jackie,Bradley Jr.,OF,Y
-286,488726,Michael,Brantley,OF,Y
-287,542963,Rob,Brantly,C,Y
-291,460075,Ryan,Braun,OF,Y
-293,608324,Alex,Bregman,3B,Y
-298,593993,Jose,Briceno,C,Y
-301,458582,Reid,Brignac,3B,Y
-302,621446,Lewis,Brinson,OF,Y
-303,593647,Socrates,Brito,OF,Y
-306,670712,Michael,Brosseau,2B,Y
-310,502126,Domonic,Brown,OF,Y
-311,518502,Gary,Brown,OF,Y
-312,664913,Seth,Brown,DH,Y
-313,623143,Trevor,Brown,C,Y
-315,542979,Keon,Broxton,OF,Y
-317,457803,Jay,Bruce,OF,Y
-318,595144,Jaycob,Brugman,OF,Y
-319,660644,Vidal,Brujan,2B,Y
-320,592178,Kris,Bryant,3B,Y
-333,669394,Jake,Burger,3B,Y
-340,542993,Billy,Burns,OF,Y
-345,460077,Drew,Butera,C,Y
-346,456714,Billy,Butler,1B,Y
-348,542994,Joey,Butler,OF,Y
-350,621439,Byron,Buxton,OF,Y
-353,452678,Asdrubal,Cabrera,3B,Y
-358,466320,Melky,Cabrera,OF,Y
-359,408234,Miguel,Cabrera,DH,Y
-362,456715,Lorenzo,Cain,OF,Y
-364,594777,Kole,Calhoun,OF,Y
-365,641432,Willie,Calhoun,OF,Y
-367,622666,Johan,Camargo,2B,Y
-368,663662,Daz,Cameron,OF,Y
-372,493472,Eric,Campbell,1B,Y
-374,669134,Luis,Campusano,DH,Y
-375,600869,Jeimer,Candelario,3B,Y
-376,592192,Mark,Canha,OF,Y
-378,429664,Robinson,Cano,2B,Y
-380,444453,Russ,Canzler,3B,Y
-384,605170,Victor,Caratini,C,Y
-385,502133,Adrian,Cardenas,2B,Y
-386,506924,Stephen,Cardullo,OF,Y
-389,666185,Dylan,Carlson,OF,Y
-396,572761,Matt,Carpenter,3B,Y
-401,485567,Ezequiel,Carrera,OF,Y
-405,474892,Chris,Carter,1B,Y
-406,592200,Curt,Casali,C,Y
-411,543008,Alex,Castellanos,OF,Y
-412,592206,Nick,Castellanos,OF,Y
-417,628329,Rusney,Castillo,OF,Y
-418,456078,Welington,Castillo,C,Y
-419,605612,Harold,Castro,OF,Y
-420,488771,Jason,Castro,C,Y
-422,516770,Starlin,Castro,2B,Y
-423,650489,Willi,Castro,SS,Y
-424,595909,Jake,Cave,OF,Y
-426,594555,Garin,Cecchini,3B,Y
-427,608325,Gavin,Cecchini,2B,Y
-431,518542,Juan,Centeno,C,Y
-432,465041,Francisco,Cervelli,C,Y
-433,493316,Yoenis,Cespedes,DH,Y
-437,518545,Adron,Chambers,OF,Y
-439,644374,Yu-Cheng,Chang,SS,Y
-441,656305,Matt,Chapman,3B,Y
-447,656308,Michael,Chavis,2B,Y
-450,455139,Robinson,Chirinos,C,Y
-452,502082,Lonnie,Chisenhall,OF,Y
-453,665862,Jazz,Chisholm,SS,Y
-455,574831,Michael,Choice,OF,Y
-456,596847,Ji-Man,Choi,1B,Y
-457,425783,Shin-Soo,Choo,OF,Y
-461,465674,Pedro,Ciriaco,3B,Y
-464,624419,Nick,Ciuffo,C,Y
-472,502182,Steve,Clevenger,C,Y
-476,605183,Jason,Coats,OF,Y
-480,458085,Chris,Coghlan,3B,Y
-485,543038,Dusty,Coleman,SS,Y
-489,607385,Tyler,Collins,OF,Y
-490,641470,Zack,Collins,DH,Y
-494,518568,Christian,Colon,2B,Y
-495,502125,Tyler,Colvin,OF,Y
-496,624424,Michael,Conforto,OF,Y
-497,474233,Hank,Conger,C,Y
-501,575929,Willson,Contreras,C,Y
-502,661388,William,Contreras,C,Y
-506,476036,David,Cooper,1B,Y
-507,643265,Garrett,Cooper,1B,Y
-510,614173,Franchy,Cordero,OF,Y
-512,641477,Ryan,Cordell,OF,Y
-513,642707,Allen,Cordoba,SS,Y
-515,621043,Carlos,Correa,SS,Y
-525,592230,Kaleb,Cowart,3B,Y
-526,518577,Collin,Cowgill,OF,Y
-527,543059,Zack,Cox,3B,Y
-528,446359,Zack,Cozart,3B,Y
-529,622226,Dylan,Cozens,OF,Y
-533,543063,Brandon,Crawford,SS,Y
-536,641487,J.P.,Crawford,SS,Y
-541,543068,C.J.,Cron,1B,Y
-542,630105,Jake,Cronenworth,SS,Y
-543,605196,Kevin,Cron,DH,Y
-548,443558,Nelson,Cruz,DH,Y
-549,665833,Oneil,Cruz,SS,Y
-551,488810,Tony,Cruz,C,Y
-554,571595,Noel,Cuevas,OF,Y
-555,518586,Charlie,Culberson,1B,Y
-557,592239,Todd,Cunningham,OF,Y
-560,596144,Cheslor,Cuthbert,DH,Y
-561,621311,David,Dahl,OF,Y
-562,666915,Bobby,Dalbec,1B,Y
-565,458668,Jordan,Danks,OF,Y
-566,488818,Chase,d'Arnaud,SS,Y
-567,518595,Travis,D'Arnaud,C,Y
-568,543083,James,Darnell,3B,Y
-570,571602,Matt,Davidson,DH,Y
-574,448801,Chris,Davis,1B,Y
-577,664041,Jaylin,Davis,OF,Y
-578,605204,J.D.,Davis,3B,Y
-579,641505,Jonathan,Davis,OF,Y
-580,501981,Khris,Davis,DH,Y
-584,602074,Yonathan,Daza,OF,Y
-585,621573,Austin,Dean,OF,Y
-587,543094,Jaff,Decker,OF,Y
-592,474443,Ivan,De Jesus,SS,Y
-594,657557,Paul,DeJong,SS,Y
-600,547170,Nick,Delmonico,OF,Y
-604,641513,Travis,Demeritte,OF,Y
-606,544925,Matt,den Dekker,OF,Y
-609,518614,Daniel,Descalso,2B,Y
-611,592261,Delino,Deshields Jr.,OF,Y
-612,435622,Ian,Desmond,OF,Y
-617,646240,Rafael,Devers,3B,Y
-619,455088,Blake,Dewitt,3B,Y
-621,649557,Aledmys,Diaz,2B,Y
-623,553869,Elias,Diaz,C,Y
-624,656371,Isan,Diaz,2B,Y
-628,650331,Lewin,Diaz,1B,Y
-630,650490,Yandy,Diaz,3B,Y
-631,666783,Yusniel,Diaz,OF,Y
-632,543105,Alex,Dickerson,OF,Y
-634,572816,Corey,Dickerson,OF,Y
-638,518618,Derek,Dietrich,DH,Y
-639,594694,Wilmer,Difo,2B,Y
-641,664926,Nick,Dini,C,Y
-642,543108,Andy,Dirks,OF,Y
-643,641525,Brandon,Dixon,1B,Y
-647,518625,Matt,Dominguez,3B,Y
-650,518626,Josh,Donaldson,3B,Y
-656,669023,Jeter,Downs,SS,Y
-659,572821,Brian,Dozier,2B,Y
-660,641531,Hunter,Dozier,OF,Y
-665,592273,Brandon,Drury,3B,Y
-666,643289,Mauricio,Dubon,SS,Y
-668,446263,Lucas,Duda,1B,Y
-672,622110,Matt,Duffy,3B,Y
-673,621453,Steven,Duggar,OF,Y
-683,680776,Jarren,Duran,OF,Y
-685,594807,Adam,Duvall,OF,Y
-686,502481,Jarrod,Dyson,OF,Y
-688,594809,Adam,Eaton,OF,Y
-691,669242,Tommy,Edman,SS,Y
-702,518653,Jake,Elmore,OF,Y
-704,429665,Edwin,Encarnacion,DH,Y
-705,641553,Adam,Engel,OF,Y
-710,640447,Phil,Ervin,OF,Y
-711,444876,Alcides,Escobar,SS,Y
-712,500871,Eduardo,Escobar,3B,Y
-716,457787,Danny,Espinosa,2B,Y
-717,669289,Santiago,Espinal,SS,Y
-720,642731,Thairo,Estrada,2B,Y
-723,595943,Phillip,Evans,3B,Y
-724,458701,Luis,Exposito,C,Y
-730,571657,Kyle,Farmer,SS,Y
-733,456544,Eric,Farris,2B,Y
-734,605227,Taylor,Featherston,2B,Y
-736,543148,Tim,Federowicz,C,Y
-743,628336,Jose Miguel,Fernandez,2B,Y
-747,608654,Johnny,Field,OF,Y
-756,605233,Derek,Fisher,OF,Y
-759,475247,Ryan,Flaherty,3B,Y
-761,664058,David,Fletcher,SS,Y
-764,570717,Ramon,Flores,OF,Y
-765,527038,Wilmer,Flores,2B,Y
-766,465753,Pedro,Florimon,OF,Y
-768,452095,Tyler,Flowers,C,Y
-774,645801,Mike,Ford,1B,Y
-775,523253,Logan,Forsythe,2B,Y
-777,451594,Dexter,Fowler,OF,Y
-778,641583,Dustin,Fowler,OF,Y
-779,665650,Lucius,Fox,SS,Y
-780,641584,Jake,Fraley,OF,Y
-785,464433,Juan,Francisco,3B,Y
-786,596748,Maikel,Franco,3B,Y
-787,664034,Ty,France,2B,Y
-788,677551,Wander,Franco,SS,Y
-790,545338,Nick,Franklin,OF,Y
-793,624428,Adam,Frazier,2B,Y
-794,640449,Clint,Frazier,OF,Y
-795,453943,Todd,Frazier,3B,Y
-797,518692,Freddie,Freeman,1B,Y
-798,502273,Mike,Freeman,DH,Y
-800,671289,Tyler,Freeman,SS,Y
-802,571679,David,Freitas,C,Y
-810,658069,Josh,Fuentes,1B,Y
-811,571681,Reymond,Fuentes,OF,Y
-820,595956,Cam,Gallagher,C,Y
-824,543194,Isaac,Galloway,OF,Y
-825,608336,Joey,Gallo,OF,Y
-826,520471,Freddy,Galvis,SS,Y
-827,592325,Ben,Gamel,OF,Y
-828,451143,Mat,Gamel,1B,Y
-830,611177,Adonis,Garcia,3B,Y
-831,666969,Adolis,Garcia,OF,Y
-832,571685,Anthony,Garcia,OF,Y
-833,605244,Aramis,Garcia,C,Y
-834,541645,Avisail,Garcia,OF,Y
-840,594824,Greg,Garcia,2B,Y
-843,676480,Jose,Garcia,SS,Y
-844,544725,Leury,Garcia,SS,Y
-846,671277,Luis,Garcia,2B,Y
-848,596825,Robel,Garcia,2B,Y
-849,591994,Willy,Garcia,OF,Y
-851,458731,Brett,Gardner,OF,Y
-853,664247,Kyle,Garlick,OF,Y
-854,572863,Dustin,Garneau,C,Y
-857,641598,Mitch,Garver,C,Y
-859,594828,Evan,Gattis,DH,Y
-866,571697,Scooter,Gennett,2B,Y
-868,595222,Michael,Gerber,OF,Y
-873,543213,Johnny,Giavotella,2B,Y
-878,543216,Conor,Gillaspie,3B,Y
-879,665926,Andres,Gimenez,SS,Y
-882,518725,Caleb,Gindl,OF,Y
-891,595963,Tyler,Goeddel,OF,Y
-893,572365,Ryan,Goins,DH,Y
-894,502671,Paul,Goldschmidt,1B,Y
-897,543228,Yan,Gomes,C,Y
-898,460576,Carlos,Gomez,OF,Y
-906,471865,Carlos,Gonzalez,OF,Y
-908,570481,Erik,Gonzalez,SS,Y
-910,503556,Marwin,Gonzalez,2B,Y
-917,592348,Niko,Goodrum,SS,Y
-918,571718,Brian,Goodwin,OF,Y
-920,460086,Alex,Gordon,OF,Y
-921,543829,Dee,Strange-Gordon,2B,Y
-922,624503,Nick,Gordon,SS,Y
-924,605253,Terrance,Gore,OF,Y
-930,594838,Phil,Gosselin,OF,Y
-932,666971,Lourdes,Gurriel,OF,Y
-933,493329,Yulieski,Gurriel,1B,Y
-936,518735,Yasmani,Grandal,C,Y
-937,643335,Zack,Granite,OF,Y
-945,502205,Grant,Green,2B,Y
-947,682985,Riley,Greene,OF,Y
-949,488919,Taylor,Green,3B,Y
-953,544369,Didi,Gregorius,SS,Y
-954,606988,Grayson,Greiner,C,Y
-956,545341,Randal,Grichuk,OF,Y
-960,663757,Trent,Grisham,OF,Y
-962,543257,Robbie,Grossman,OF,Y
-964,648717,Alexander,Guerrero,3B,Y
-970,665489,Vladimir,Guerrero Jr.,1B,Y
-973,641645,Luis,Guillorme,2B,Y
-977,642721,Kelvin,Gutierrez,3B,Y
-979,446386,Brandon,Guyer,OF,Y
-980,461882,Jesus,Guzman,1B,Y
-981,608597,Ronald,Guzman,1B,Y
-983,576397,Jedd,Gyorko,3B,Y
-984,606992,Eric,Haase,C,Y
-988,664059,Sam,Haggerty,OF,Y
-997,571740,Billy,Hamilton,OF,Y
-1000,641658,Garrett,Hampson,2B,Y
-1002,571745,Mitch,Haniger,OF,Y
-1007,593700,Alen,Hanson,2B,Y
-1009,664023,Ian,Happ,OF,Y
-1016,547180,Bryce,Harper,OF,Y
-1019,543281,Josh,Harrison,2B,Y
-1021,656509,Monte,Harrison,OF,Y
-1027,656514,Adam,Haseley,OF,Y
-1028,572910,Alexander,Hassan,OF,Y
-1031,458704,Reese,Havens,2B,Y
-1034,663647,Ke'Bryan,Hayes,3B,Y
-1035,669720,Austin,Hays,OF,Y
-1036,571757,Jeremy,Hazelbaker,OF,Y
-1038,592387,Ryon,Healy,1B,Y
-1041,588751,Adeiny,Hechavarria,2B,Y
-1042,595978,Austin,Hedges,C,Y
-1044,641680,Jonah,Heim,C,Y
-1045,595981,Scott,Heineman,OF,Y
-1046,623168,Tyler,Heineman,C,Y
-1047,502317,Chris,Heisey,OF,Y
-1058,628338,Guillermo,Heredia,OF,Y
-1059,641684,Michael,Hermosillo,OF,Y
-1060,514917,Cesar,Hernandez,2B,Y
-1064,571771,Enrique,Hernandez,2B,Y
-1066,491676,Gorkys,Hernandez,OF,Y
-1070,593523,Marco,Hernandez,2B,Y
-1072,606192,Teoscar,Hernandez,OF,Y
-1073,599096,Dilson,Herrera,1B,Y
-1074,467070,Elian,Herrera,2B,Y
-1077,546318,Odubel,Herrera,OF,Y
-1078,594011,Rosell,Herrera,OF,Y
-1079,543302,Chris,Herrmann,C,Y
-1084,518792,Jason,Heyward,OF,Y
-1085,543305,Aaron,Hicks,OF,Y
-1086,518794,Brandon,Hicks,2B,Y
-1087,543308,John,Hicks,C,Y
-1089,543309,Kyle,Higashioka,C,Y
-1092,656541,Sam,Hilliard,OF,Y
-1095,518799,Steven,Hill,C,Y
-1100,669374,Keston,Hiura,2B,Y
-1102,663538,Nico,Hoerner,SS,Y
-1103,543321,L.J.,Hoes,OF,Y
-1106,592407,Bryan,Holaday,C,Y
-1108,664060,Kyle,Holder,SS,Y
-1114,571788,Brock,Holt,3B,Y
-1118,656555,Rhys,Hoskins,1B,Y
-1119,543333,Eric,Hosmer,1B,Y
-1124,664031,Ryan,Howard,SS,Y
-1127,592419,Jared,Hoying,OF,Y
-1135,669087,Sam,Huff,C,Y
-1145,666561,Jae-gyun,Hwang,3B,Y
-1146,455104,Chris,Iannetta,C,Y
-1149,578428,Jose,Iglesias,SS,Y
-1151,542255,Ender,Inciarte,OF,Y
-1152,663697,Jonathan,India,3B,Y
-1162,656577,Alex,Jackson,OF,Y
-1163,656577,Alex,Jackson,OF,Y
-1164,457706,Austin,Jackson,OF,Y
-1165,571804,Brett,Jackson,OF,Y
-1170,474249,Ryan,Jackson,SS,Y
-1174,608671,Travis,Jankowski,OF,Y
-1175,643376,Danny,Jansen,C,Y
-1180,445055,Jon,Jay,OF,Y
-1182,680777,Ryan,Jeffers,C,Y
-1187,457775,Desmond,Jennings,OF,Y
-1190,543362,A.J.,Jimenez,C,Y
-1191,650391,Eloy,Jimenez,OF,Y
-1193,499864,Luis,Jimenez,3B,Y
-1195,656582,Connor,Joe,OF,Y
-1199,669288,Daniel,Johnson,OF,Y
-1205,608672,Micah,Johnson,OF,Y
-1211,430945,Adam,Jones,OF,Y
-1215,663330,Jahmai,Jones,OF,Y
-1216,571825,James,Jones,OF,Y
-1217,592444,JaCoby,Jones,OF,Y
-1219,666134,Nolan,Jones,3B,Y
-1220,624507,Ryder,Jones,1B,Y
-1222,543376,Caleb,Joseph,C,Y
-1223,543377,Corban,Joseph,2B,Y
-1224,571830,Tommy,Joseph,1B,Y
-1225,459964,Matt,Joyce,OF,Y
-1226,592450,Aaron,Judge,OF,Y
-1227,673962,Josh,Jung,3B,Y
-1234,501888,Ryan,Kalish,OF,Y
-1235,628356,Jung-Ho,Kang,3B,Y
-1245,672284,Jarred,Kelenic,OF,Y
-1250,608348,Carson,Kelly,C,Y
-1255,571841,Ty,Kelly,2B,Y
-1256,461314,Matt,Kemp,DH,Y
-1257,643393,Tony,Kemp,2B,Y
-1259,435062,Howie,Kendrick,DH,Y
-1264,596146,Max,Kepler,OF,Y
-1268,666198,Carter,Kieboom,3B,Y
-1269,571851,Spencer,Kieboom,C,Y
-1270,595281,Kevin,Kiermaier,OF,Y
-1274,673490,Ha-Seong,Kim,SS,Y
-1275,547957,Hyun-soo,Kim,OF,Y
-1277,643396,Isiah,Kiner-Falefa,SS,Y
-1278,664068,Scott,Kingery,2B,Y
-1285,543401,Jason,Kipnis,2B,Y
-1286,666135,Alex,Kirilloff,OF,Y
-1287,672386,Alejandro,Kirk,C,Y
-1290,623182,Patrick,Kivlehan,OF,Y
-1293,595284,Andrew,Knapp,C,Y
-1295,668800,Andrew,Knizner,C,Y
-1308,518902,Pete,Kozma,3B,Y
-1309,596012,Kevin,Kramer,OF,Y
-1310,456124,Erik,Kratz,C,Y
-1314,605323,Kyle,Kubitza,3B,Y
-1320,502285,Tyler,Ladendorf,2B,Y
-1322,501571,Juan,Lagares,OF,Y
-1324,477186,Brandon,Laird,3B,Y
-1326,516809,Junior,Lake,OF,Y
-1329,534606,Ryan,LaMarre,OF,Y
-1331,571875,Jacob,Lamb,3B,Y
-1338,663616,Trevor,Larnach,OF,Y
-1340,600303,Tommy,La Stella,2B,Y
-1343,657656,Ramon,Laureano,OF,Y
-1344,543432,Ryan,Lavarnway,C,Y
-1347,543434,Brett,Lawrie,2B,Y
-1357,666137,Khalil,Lee,OF,Y
-1359,518934,DJ,LeMahieu,2B,Y
-1361,506702,Sandy,Leon,C,Y
-1366,641786,Kyle,Lewis,OF,Y
-1367,668904,Royce,Lewis,SS,Y
-1368,642736,Domingo,Leyba,2B,Y
-1369,499926,Alex,Liddi,3B,Y
-1377,596019,Francisco,Lindor,SS,Y
-1379,624407,Tzu-Wei,Lin,SS,Y
-1381,542642,Rymer,Liriano,OF,Y
-1387,641796,Tim,Locastro,OF,Y
-1393,543459,Steve,Lombardozzi,2B,Y
-1395,446334,Evan,Longoria,3B,Y
-1397,643418,Shed,Long,2B,Y
-1398,621005,Tim,Lopes,OF,Y
-1403,670032,Nicky,Lopez,2B,Y
-1405,607257,Rafael,Lopez,C,Y
-1410,518953,David,Lough,OF,Y
-1412,664040,Brandon,Lowe,2B,Y
-1414,666139,Josh,Lowe,OF,Y
-1416,663993,Nate,Lowe,1B,Y
-1417,476704,Jed,Lowrie,2B,Y
-1420,518960,Jonathan,Lucroy,C,Y
-1424,608475,Dawel,Lugo,3B,Y
-1426,656669,Jordan,Luplow,OF,Y
-1427,544371,Donald,Lutz,OF,Y
-1428,518963,Zach,Lutz,3B,Y
-1429,666158,Gavin,Lux,2B,Y
-1436,553988,Dixon,Machado,SS,Y
-1437,592518,Manny,Machado,3B,Y
-1439,605353,Vimael,Machin,3B,Y
-1440,663611,Nick,Madrigal,2B,Y
-1446,543484,Mikie,Mahtook,OF,Y
-1448,571912,Luke,Maile,C,Y
-1451,670867,Kevin,Maitan,SS,Y
-1452,455117,Martin,Maldonado,C,Y
-1454,641820,Trey,Mancini,OF,Y
-1460,622534,Manuel,Margot,OF,Y
-1461,545350,Jake,Marisnick,OF,Y
-1462,455976,Nick,Markakis,OF,Y
-1464,592530,Jose,Marmolejos,OF,Y
-1469,502029,Chris,Marrero,1B,Y
-1470,571918,Deven,Marrero,SS,Y
-1471,669016,Brandon,Marsh,OF,Y
-1474,453974,Lou,Marson,C,Y
-1476,527043,Jefry,Marte,1B,Y
-1477,606466,Ketel,Marte,2B,Y
-1479,516782,Starling,Marte,OF,Y
-1481,668885,Austin,Martin,OF,Y
-1488,494686,Fernando,Martinez,OF,Y
-1489,641829,Jason,Martin,OF,Y
-1490,502110,J.D.,Martinez,DH,Y
-1491,500874,Jose,Martinez,DH,Y
-1492,547982,Leonys,Martin,OF,Y
-1493,446208,Luis,Martinez,C,Y
-1496,605361,Nick,Martini,OF,Y
-1497,621006,Richie,Martin,SS,Y
-1498,431145,Russell,Martin,C,Y
-1502,518991,Darin,Mastroianni,OF,Y
-1503,622761,Jorge,Mateo,OF,Y
-1505,425772,Jeff,Mathis,C,Y
-1506,621500,Wyatt,Mathisen,3B,Y
-1507,665155,Nick,Maton,SS,Y
-1518,622194,Bruce,Maxwell,C,Y
-1521,457727,Cameron,Maybin,OF,Y
-1524,608686,Jack,Mayfield,SS,Y
-1525,594576,Jacob,May,OF,Y
-1529,608577,Nomar,Mazara,OF,Y
-1532,643436,Ryan,McBroom,1B,Y
-1534,543510,James,McCann,C,Y
-1540,676801,Chas,McCormick,OF,Y
-1543,457705,Andrew,McCutchen,OF,Y
-1551,573027,Chris,Mcguiness,1B,Y
-1552,624512,Reese,McGuire,C,Y
-1555,502374,Michael,McKenry,C,Y
-1557,641856,Billy,McKinney,OF,Y
-1558,656716,Zach,McKinstry,DH,Y
-1560,641857,Ryan,McMahon,2B,Y
-1561,643446,Jeff,McNeil,2B,Y
-1563,640457,Austin,Meadows,OF,Y
-1566,523265,Tommy,Medica,OF,Y
-1572,448171,Ernesto,Mejia,3B,Y
-1573,642336,Francisco,Mejia,C,Y
-1575,623180,Seth,Mejias-Brean,1B,Y
-1579,664901,Danny,Mendick,2B,Y
-1583,640458,Oscar,Mercado,OF,Y
-1584,474568,Jordy,Mercer,SS,Y
-1585,606213,Yermin,Mercedes,DH,Y
-1588,593160,Whit,Merrifield,2B,Y
-1590,444859,Melky,Mesa,OF,Y
-1591,673516,Victor,Victor Mesa,OF,Y
-1592,519023,Devin,Mesoraco,C,Y
-1601,543543,Brad,Miller,3B,Y
-1606,680911,Owen,Miller,SS,Y
-1620,425877,Yadier,Molina,C,Y
-1621,660162,Yoan,Moncada,3B,Y
-1622,609275,Adalberto,Mondesi,SS,Y
-1623,666160,Mickey,Moniak,OF,Y
-1625,524968,Jesus,Montero,1B,Y
-1632,664238,Dylan,Moore,2B,Y
-1635,489138,Tyler,Moore,1B,Y
-1639,592567,Colin,Moran,1B,Y
-1641,543569,Brent,Morel,3B,Y
-1642,519048,Mitch,Moreland,1B,Y
-1648,621559,Max,Moroff,2B,Y
-1651,489149,Logan,Morrison,DH,Y
-1660,600301,Taylor,Motter,SS,Y
-1661,663624,Ryan,Mountcastle,OF,Y
-1662,519058,Mike,Moustakas,2B,Y
-1664,570615,Steven,Moya,OF,Y
-1668,656775,Cedric,Mullins,OF,Y
-1669,571970,Max,Muncy,2B,Y
-1671,622168,Yairo,Munoz,OF,Y
-1673,502517,Daniel,Murphy,1B,Y
-1674,571974,John Ryan,Murphy,C,Y
-1675,669221,Sean,Murphy,C,Y
-1676,608596,Tom,Murphy,C,Y
-1680,571976,Wil,Myers,OF,Y
-1684,571980,Tyler,Naquin,OF,Y
-1685,553882,Omar,Narvaez,C,Y
-1690,519068,Efren,Navarro,1B,Y
-1691,647304,Josh,Naylor,OF,Y
-1692,489166,Thomas,Neal,OF,Y
-1693,502117,Kristopher,Negron,OF,Y
-1695,455126,Chris,Nelson,3B,Y
-1699,641914,Sheldon,Neuse,2B,Y
-1703,621028,Kevin,Newman,SS,Y
-1704,547912,Gift,Ngoepe,2B,Y
-1708,621512,Tomas,Nido,C,Y
-1713,607043,Brandon,Nimmo,OF,Y
-1720,543592,Austin,Nola,C,Y
-1723,669738,Jake,Noll,1B,Y
-1727,519083,Derek,Norris,C,Y
-1728,641924,Jacob,Nottingham,C,Y
-1730,624513,Dom,Nunez,C,Y
-1731,456488,Eduardo,Nunez,OF,Y
-1732,600524,Renato,Nunez,1B,Y
-1737,598284,Peter,O'Brien,OF,Y
-1740,596059,Rougned,Odor,2B,Y
-1743,657434,Brian,O'Grady,1B,Y
-1745,656811,Ryan,O'Hearn,1B,Y
-1747,660271,Shohei,Ohtani,DH,Y
-1750,658668,Edward,Olivares,OF,Y
-1751,666931,Jared,Oliva,OF,Y
-1753,493343,Hector,Olivera,OF,Y
-1756,621566,Matt,Olson,1B,Y
-1758,592609,Mike,Olt,3B,Y
-1759,502523,Shawn,O'Malley,SS,Y
-1761,641933,Tyler,O'Neill,OF,Y
-1763,449181,Paulo,Orlando,OF,Y
-1765,542364,Rafael,Ortega,OF,Y
-1769,591741,Jose,Osuna,OF,Y
-1781,572008,Chris,Owings,2B,Y
-1783,542303,Marcell,Ozuna,OF,Y
-1784,665506,Cristian,Pache,OF,Y
-1785,457574,Jordan,Pacheco,3B,Y
-1790,594953,Daniel,Palka,OF,Y
-1792,605412,Joe,Panik,SS,Y
-1796,670623,Isaac,Paredes,3B,Y
-1797,517370,Jimmy,Paredes,OF,Y
-1798,666560,Byung-ho,Park,1B,Y
-1801,592620,Jarrett,Parker,OF,Y
-1802,592621,Kyle,Parker,OF,Y
-1803,476633,Chris,Parmelee,1B,Y
-1805,467827,Gerardo,Parra,OF,Y
-1808,543629,Tyler,Pastornicky,2B,Y
-1814,609267,Dorssys,Paulino,SS,Y
-1817,572019,Ben,Paulsen,1B,Y
-1818,449082,Xavier,Paul,OF,Y
-1821,592622,Mark,Payton,OF,Y
-1827,592626,Joc,Pederson,OF,Y
-1829,451713,Carlos,Peguero,OF,Y
-1830,501317,Francisco,Peguero,OF,Y
-1835,506747,Francisco,Pena,C,Y
-1836,455369,Ramiro,Pena,2B,Y
-1837,452254,Hunter,Pence,OF,Y
-1840,444482,David,Peralta,OF,Y
-1846,606299,Jose,Peraza,2B,Y
-1849,542208,Carlos,Perez,C,Y
-1852,666206,Delvin,Perez,SS,Y
-1853,516811,Eury,Perez,OF,Y
-1855,541650,Hernan,Perez,1B,Y
-1859,605421,Michael,Perez,C,Y
-1861,547379,Roberto,Perez,C,Y
-1862,521692,Salvador,Perez,C,Y
-1864,573088,Cam,Perkins,OF,Y
-1867,519128,Bryan,Petersen,OF,Y
-1870,592637,D.J.,Peterson,3B,Y
-1871,640460,Dustin,Peterson,OF,Y
-1872,607054,Jace,Peterson,OF,Y
-1873,451089,Shane,Peterson,OF,Y
-1879,502054,Tommy,Pham,OF,Y
-1880,572033,Josh,Phegley,DH,Y
-1881,543647,Cord,Phelps,2B,Y
-1884,621433,Brett,Phillips,OF,Y
-1885,464426,Denis,Phipps,OF,Y
-1889,607680,Kevin,Pillar,OF,Y
-1891,444489,Manny,Pina,C,Y
-1892,640461,Chad,Pinder,2B,Y
-1895,500887,Josmil,Pinto,C,Y
-1897,517369,Jose,Pirela,OF,Y
-1898,572039,Stephen,Piscotty,OF,Y
-1900,608700,Kevin,Plawecki,C,Y
-1902,461858,Trevor,Plouffe,3B,Y
-1906,570256,Gregory,Polanco,OF,Y
-1907,593871,Jorge,Polanco,SS,Y
-1909,572041,A.J.,Pollock,OF,Y
-1912,592647,Dalton,Pompey,DH,Y
-1916,457763,Buster,Posey,C,Y
-1919,621471,Boog,Powell,OF,Y
-1921,502100,Alex,Presley,OF,Y
-1925,572389,Josh,Prince,OF,Y
-1926,595777,Jurickson,Profar,2B,Y
-1929,527049,Cesar,Puello,OF,Y
-1930,624577,Yasiel,Puig,OF,Y
-1931,405395,Albert,Pujols,1B,Y
-1940,596451,Roman,Quinn,OF,Y
-1946,663728,Cal,Raleigh,C,Y
-1952,623912,Harold,Ramirez,OF,Y
-1954,608070,Jose,Ramirez,3B,Y
-1966,671218,Heliot,Ramos,OF,Y
-1967,467092,Wilson,Ramos,C,Y
-1973,592660,Rangel,Ravelo,DH,Y
-1976,641999,Corey,Ray,OF,Y
-1979,592663,J.T.,Realmuto,C,Y
-1981,502210,Josh,Reddick,OF,Y
-1984,607223,A.J.,Reed,DH,Y
-1986,605439,Michael,Reed,OF,Y
-1987,608701,Robert,Refsnyder,DH,Y
-1990,543685,Anthony,Rendon,3B,Y
-1991,592669,Hunter,Renfroe,OF,Y
-1992,650859,Luis,Rengifo,2B,Y
-1994,519184,Ben,Revere,OF,Y
-1996,614177,Franmil,Reyes,DH,Y
-1998,655997,Jomar,Reyes,3B,Y
-1999,622569,Pablo,Reyes,OF,Y
-2000,622682,Victor,Reyes,OF,Y
-2001,668804,Bryan,Reynolds,OF,Y
-2004,608703,Matt,Reynolds,3B,Y
-2011,572073,Joey,Rickard,OF,Y
-2012,595375,J.T.,Riddle,3B,Y
-2014,663586,Austin,Riley,3B,Y
-2016,621458,Edwin,Rios,3B,Y
-2020,425784,Rene,Rivera,DH,Y
-2021,608061,T.J.,Rivera,3B,Y
-2022,592680,Yadiel,Rivera,SS,Y
-2023,519203,Anthony,Rizzo,1B,Y
-2027,543706,Daniel,Robertson,OF,Y
-2028,621002,Daniel,Robertson,SS,Y
-2029,673357,Luis,Robert,OF,Y
-2032,519208,Clint,Robinson,1B,Y
-2033,592685,Drew,Robinson,OF,Y
-2034,677565,Kristian,Robinson,OF,Y
-2036,477054,Trayvon,Robinson,OF,Y
-2038,645302,Victor,Robles,OF,Y
-2039,663898,Brendan,Rodgers,2B,Y
-2050,514719,Henry,Rodriguez,2B,Y
-2054,677594,Julio,Rodriguez,OF,Y
-2055,500135,Ronny,Rodrigues,SS,Y
-2056,446481,Sean,Rodriguez,2B,Y
-2061,595386,Jason,Rogers,1B,Y
-2062,668670,Jake,Rogers,C,Y
-2067,668942,Josh,Rojas,2B,Y
-2068,500743,Miguel,Rojas,SS,Y
-2076,552662,Stefen,Romero,OF,Y
-2077,461865,Andrew,Romine,SS,Y
-2078,519222,Austin,Romine,C,Y
-2082,602922,Jose,Rondon,2B,Y
-2083,667670,Brent,Rooker,OF,Y
-2086,642708,Amed,Rosario,SS,Y
-2087,592696,Eddie,Rosario,OF,Y
-2088,501647,Wilin,Rosario,1B,Y
-2098,607387,Ryan,Rua,OF,Y
-2099,573131,Darin,Ruf,OF,Y
-2103,660688,Keibert,Ruiz,C,Y
-2104,547004,Rio,Ruiz,3B,Y
-2106,519237,Cameron,Rupp,C,Y
-2108,608365,Addison,Russell,SS,Y
-2110,666164,Blake,Rutherford,OF,Y
-2111,592710,Josh,Rutledge,3B,Y
-2112,668939,Adley,Rutschman,C,Y
-2121,573135,Tyler,Saladino,SS,Y
-2131,506703,Adrian,Sanchez,3B,Y
-2133,570560,Yolmer,Sanchez,3B,Y
-2137,596142,Gary,Sanchez,C,Y
-2138,516949,Hector,Sanchez,C,Y
-2139,660821,Jesus,Sanchez,OF,Y
-2143,467055,Pablo,Sandoval,1B,Y
-2145,543742,Jerry,Sands,DH,Y
-2146,593934,Miguel,Sano,1B,Y
-2147,623993,Anthony,Santander,OF,Y
-2148,467793,Carlos,Santana,1B,Y
-2149,542454,Danny,Santana,1B,Y
-2151,570267,Domingo,Santana,OF,Y
-2159,543743,Dave,Sappelt,OF,Y
-2160,596143,Luis,Sardinas,2B,Y
-2161,543744,Josh,Satin,1B,Y
-2163,459431,Michael,Saunders,OF,Y
-2167,502582,Logan,Schafer,OF,Y
-2168,594988,Scott,Schebler,DH,Y
-2172,572114,Ryan,Schimpf,3B,Y
-2174,570731,Jonathan,Schoop,2B,Y
-2175,621011,Max,Schrock,DH,Y
-2177,656941,Kyle,Schwarber,OF,Y
-2185,608369,Corey,Seager,SS,Y
-2186,572122,Kyle,Seager,3B,Y
-2187,516416,Jean,Segura,2B,Y
-2188,543760,Marcus,Semien,SS,Y
-2190,669222,Nick,Senzel,OF,Y
-2192,600474,Pedro,Severino,C,Y
-2196,572128,Richie,Shaffer,1B,Y
-2199,622046,Chris,Shaw,1B,Y
-2200,543768,Travis,Shaw,3B,Y
-2210,543776,J.B.,Shuck,OF,Y
-2212,642423,Magneuris,Sierra,OF,Y
-2213,501213,Moises,Sierra,OF,Y
-2216,592743,Andrelton,Simmons,SS,Y
-2221,572138,Jonathan,Singleton,1B,Y
-2223,642082,Chance,Sisco,C,Y
-2225,502003,Scott,Sizemore,3B,Y
-2227,543788,Kyle,Skipworth,C,Y
-2229,605474,Matt,Skole,DH,Y
-2231,596103,Austin,Slater,OF,Y
-2238,642086,Dominic,Smith,OF,Y
-2239,596105,Dwight,Smith Jr.,OF,Y
-2242,607345,Kevan,Smith,C,Y
-2243,605480,Mallex,Smith,OF,Y
-2244,656976,Pavin,Smith,1B,Y
-2248,669257,Will,Smith,C,Y
-2249,475253,Justin,Smoak,1B,Y
-2251,519295,Jake,Smolinski,OF,Y
-2256,501983,Travis,Snider,OF,Y
-2257,474319,Brandon,Snyder,3B,Y
-2259,519299,Eric,Sogard,SS,Y
-2260,669256,Nick,Solak,2B,Y
-2261,456781,Donovan,Solano,2B,Y
-2262,500208,Yangervis,Solarte,2B,Y
-2263,624585,Jorge,Soler,OF,Y
-2264,455378,Ali,Solis,C,Y
-2270,624641,Edmundo,Sosa,SS,Y
-2273,665742,Juan,Soto,OF,Y
-2274,519306,Steven,Souza,OF,Y
-2276,605486,Cory,Spangenberg,2B,Y
-2279,543807,George,Springer,OF,Y
-2281,607732,Jacob,Stallings,C,Y
-2282,608715,Eric,Stamets,SS,Y
-2285,519317,Giancarlo,Stanton,DH,Y
-2286,605490,Bubba,Starling,OF,Y
-2287,595426,Brock,Stassi,1B,Y
-2288,545358,Max,Stassi,C,Y
-2294,663886,Tyler,Stephenson,C,Y
-2295,664057,Andrew,Stevenson,OF,Y
-2298,621514,Christin,Stewart,OF,Y
-2299,621466,D.J.,Stewart,OF,Y
-2300,456655,Ian,Stewart,3B,Y
-2306,596115,Trevor,Story,SS,Y
-2311,664702,Myles,Straw,OF,Y
-2319,596117,Garrett,Stubbs,C,Y
-2323,553993,Eugenio,Suarez,3B,Y
-2326,491696,Jesus,Sucre,C,Y
-2329,572180,Andrew,Susac,C,Y
-2332,435559,Kurt,Suzuki,C,Y
-2333,621020,Dansby,Swanson,SS,Y
-2336,572182,Darnell,Sweeney,OF,Y
-2337,435220,Ryan,Sweeney,OF,Y
-2338,596119,Blake,Swihart,OF,Y
-2343,519333,Matt,Szczur,OF,Y
-2344,467798,Jose,Tabata,OF,Y
-2349,606132,Raimel,Tapia,OF,Y
-2353,665487,Fernando,Tatis Jr.,SS,Y
-2354,643565,Mike,Tauchman,OF,Y
-2355,665750,Leody,Taveras,OF,Y
-2358,607333,Beau,Taylor,C,Y
-2359,621035,Chris,Taylor,SS,Y
-2361,572191,Michael,Taylor,OF,Y
-2362,621438,Tyrone,Taylor,OF,Y
-2369,514913,Ruben,Tejada,2B,Y
-2370,660731,Anderson,Tejeda,SS,Y
-2371,493574,Blake,Tekotte,OF,Y
-2372,542513,Tomas,Telis,1B,Y
-2373,642133,Rowdy,Tellez,1B,Y
-2376,642136,Matt,Thaiss,1B,Y
-2377,519346,Eric,Thames,1B,Y
-2382,489365,Josh,Thole,C,Y
-2384,657041,Lane,Thomas,OF,Y
-2388,572204,Trayce,Thompson,OF,Y
-2394,605508,Charlie,Tilson,OF,Y
-2396,624636,Carlos,Tocci,OF,Y
-2397,592808,Andrew,Toles,OF,Y
-2400,630111,Yasmany,Tomas,DH,Y
-2401,664789,Ka'ai,Tom,OF,Y
-2403,605509,Kelby,Tomlinson,2B,Y
-2404,679529,Spencer,Torkelson,1B,Y
-2405,647351,Abraham,Toro,3B,Y
-2409,650402,Gleyber,Torres,SS,Y
-2411,620443,Luis,Torrens,C,Y
-2412,591720,Ronald,Torreyes,SS,Y
-2415,541600,Wilfredo,Tovar,SS,Y
-2417,666211,Taylor,Trammell,OF,Y
-2418,581527,Devon,Travis,2B,Y
-2419,607752,Sam,Travis,1B,Y
-2421,624431,Jose,Trevino,C,Y
-2423,508892,Carlos,Triunfel,SS,Y
-2425,644433,Chadwick,Tromp,C,Y
-2427,545361,Mike,Trout,OF,Y
-2428,444432,Mark,Trumbo,DH,Y
-2429,660294,Yoshitomo,Tsutsugo,3B,Y
-2430,657061,Cole,Tucker,OF,Y
-2431,663656,Kyle,Tucker,OF,Y
-2432,605512,Preston,Tucker,OF,Y
-2437,457759,Justin,Turner,3B,Y
-2438,607208,Trea,Turner,SS,Y
-2441,425834,Melvin,Upton,OF,Y
-2442,457708,Justin,Upton,OF,Y
-2444,620446,Richard,Urena,SS,Y
-2446,649966,Luis,Urias,SS,Y
-2449,625329,Henry,Urrutia,OF,Y
-2450,570482,Giovanny,Urshela,3B,Y
-2452,642162,Pat,Valaika,SS,Y
-2453,472528,Luis,Valbuena,3B,Y
-2457,518170,Jordany,Valdespin,2B,Y
-2462,591971,Breyvic,Valera,2B,Y
-2465,642165,Josh,VanMeter,2B,Y
-2466,475100,Scott,Van Slyke,OF,Y
-2468,545121,Ildemaro,Vargas,2B,Y
-2470,573627,Kennys,Vargas,1B,Y
-2471,662139,Daulton,Varsho,C,Y
-2474,683734,Andrew,Vaughn,1B,Y
-2475,543877,Christian,Vazquez,C,Y
-2478,623205,Andrew,Velazquez,SS,Y
-2484,657077,Alex,Verdugo,OF,Y
-2488,493364,Dayan,Viciedo,OF,Y
-2493,570799,Christian,Villanueva,3B,Y
-2494,542340,Jonathan,Villar,SS,Y
-2495,650619,Meibrys,Viloria,C,Y
-2497,519388,Josh,Vitters,3B,Y
-2500,596129,Dan,Vogelbach,DH,Y
-2502,519390,Stephen,Vogt,C,Y
-2503,572228,Luke,Voit,1B,Y
-2507,458015,Joey,Votto,1B,Y
-2511,664774,LaMonte,Wade,OF,Y
-2512,642180,Tyler,Wade,SS,Y
-2520,572233,Christian,Walker,1B,Y
-2521,435522,Neil,Walker,2B,Y
-2523,477165,Brett,Wallace,3B,Y
-2524,595453,Chad,Wallach,C,Y
-2525,657088,Forrest,Wall,2B,Y
-2527,670764,Taylor,Walls,SS,Y
-2528,595023,Colin,Walsh,3B,Y
-2529,665120,Jared,Walsh,1B,Y
-2531,595025,Zach,Walters,1B,Y
-2534,608380,Drew,Ward,3B,Y
-2535,621493,Taylor,Ward,OF,Y
-2537,671221,Drew,Waters,OF,Y
-2550,457789,Jemile,Weeks,2B,Y
-2553,666213,Colton,Welker,3B,Y
-2558,621563,Joey,Wendle,SS,Y
-2561,572253,Ryan,Wheeler,3B,Y
-2564,657108,Evan,White,1B,Y
-2565,643603,Tyler,White,1B,Y
-2573,446308,Matt,Wieters,C,Y
-2577,592859,Steve,Wilkerson,OF,Y
-2582,642211,Justin,Williams,OF,Y
-2583,592863,Mason,Williams,OF,Y
-2584,607776,Mac,Williamson,OF,Y
-2585,608384,Nick,Williams,OF,Y
-2595,608385,Jesse,Winker,OF,Y
-2597,621550,Patrick,Wisdom,DH,Y
-2600,677951,Bobby,Witt Jr.,SS,Y
-2604,547172,Tony,Wolters,C,Y
-2605,543939,Kolten,Wong,2B,Y
-2608,457420,Brandon,Wood,3B,Y
-2616,519445,Danny,Worth,2B,Y
-2623,642851,Austin,Wynns,C,Y
-2628,573262,Mike,Yastrzemski,OF,Y
-2630,592885,Christian,Yelich,OF,Y
-2637,430321,Delmon,Young,OF,Y
-2638,458913,Eric,Young Jr.,OF,Y
-2641,657145,Mark,Zagunis,OF,Y
-2644,605548,Bradley,Zimmer,OF,Y
-2648,475582,Ryan,Zimmerman,1B,Y
-2652,572287,Mike,Zunino,C,Y
-2655,628450,Yadiel,Hernandez,OF,Y
-2656,596056,John,Nogowski,1B,Y
-2657,650559,Bryan,De La Cruz,OF,Y
-2658,628451,Andy,Ibanez,2B,Y
-2659,656847,DJ,Peters,OF,Y
-2660,656403,Drew,Ellis,3B,Y
-2661,656413,Stuart,Fairchild,OF,Y
-2662,602104,Ramon,Urias,SS,Y
-2663,664874,Seby,Zavala,C,Y
-2664,660634,Yonny,Hernandez,3B,Y
-2666,676694,Jake,Meyers,OF,Y
-2667,663799,Curtis,Terry,1B,Y
-2668,660829,Hoy,Park,SS,Y
-2669,666801,Rodolfo,Castro,2B,Y
-2671,613564,Jason,Vosler,3B,Y
-2677,656537,Derek,Hill,OF,Y
-2678,657757,Gavin,Sheets,1B,Y
-2679,642201,Eli,White,OF,Y
-2681,643524,Frank,Schwindel,1B,Y
+,MLBID,FIRSTNAME,LASTNAME,ACTIVE,Player,Team,Pos,Age,G,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,SH,SF,HBP,AVG,OBP,SLG,OPS
+0,547989,Jose,Abreu,Y,Jose Abreu,CWS,1B,34,152,566,86,148,30,2,30,117,1,0,61,143,0,10,22,0.261,0.351,0.481,0.832
+1,660670,Ronald,Acuna,Y,Ronald Acuna,ATL,OF,23,82,297,72,84,19,1,24,52,17,6,49,85,0,5,9,0.283,0.394,0.596,0.99
+3,642715,Willy,Adames,Y,Willy Adames,TB,SS,26,41,132,16,26,6,1,5,15,1,2,10,51,0,0,0,0.197,0.254,0.371,0.625
+4,666176,Jo,Adell,Y,Jo Adell,LAA,OF,22,35,130,17,32,5,2,4,26,2,1,8,32,1,0,1,0.246,0.295,0.408,0.703
+5,501303,Ehire,Adrianza,Y,Ehire Adrianza,ATL,SS,32,109,182,32,45,9,2,5,28,0,0,21,42,1,3,2,0.247,0.327,0.401,0.728
+6,542583,Jesus,Aguilar,Y,Jesus Aguilar,MIA,1B,31,131,449,49,117,23,0,22,93,0,0,46,93,0,7,3,0.261,0.329,0.459,0.788
+7,605113,Nick,Ahmed,Y,Nick Ahmed,ARI,SS,31,129,434,46,96,30,3,5,38,7,2,34,104,2,1,2,0.221,0.28,0.339,0.619
+8,673451,Shogo,Akiyama,Y,Shogo Akiyama,CIN,OF,33,88,162,16,33,8,0,0,12,2,3,14,40,1,1,4,0.204,0.282,0.253,0.535
+9,593643,Hanser,Alberto,Y,Hanser Alberto,KC,2B,28,103,241,25,65,20,3,2,24,3,1,4,26,4,2,4,0.27,0.291,0.402,0.693
+10,645277,Ozzie,Albies,Y,Ozzie Albies,ATL,2B,24,156,629,103,163,40,7,30,106,20,4,47,128,0,7,3,0.259,0.31,0.488,0.798
+11,595751,Jorge,Alfaro,Y,Jorge Alfaro,MIA,C,28,92,295,22,72,15,1,4,30,8,1,11,99,0,0,5,0.244,0.283,0.342,0.625
+12,546990,Anthony,Alford,Y,Anthony Alford,PIT,OF,27,49,133,14,31,6,1,5,11,5,6,12,58,0,0,3,0.233,0.311,0.406,0.717
+13,501659,Abraham,Almonte,Y,Abraham Almonte,ATL,OF,32,64,148,20,32,12,0,5,19,1,1,26,38,0,1,0,0.216,0.331,0.399,0.73
+14,546991,Albert,Almora,Y,Albert Almora,NYM,OF,27,47,52,3,6,3,0,0,0,0,0,2,17,0,0,0,0.115,0.148,0.173,0.321
+15,624413,Pete,Alonso,Y,Pete Alonso,NYM,1B,26,152,561,81,147,27,3,37,94,3,0,60,127,0,4,12,0.262,0.344,0.519,0.863
+16,514888,Jose,Altuve,Y,Jose Altuve,HOU,2B,31,146,601,117,167,32,1,31,83,5,3,66,91,1,6,4,0.278,0.35,0.489,0.839
+17,670541,Yordan,Alvarez,Y,Yordan Alvarez,HOU,DH,24,144,537,92,149,35,1,33,104,1,0,50,145,0,3,8,0.277,0.346,0.531,0.877
+18,605119,Brian,Anderson,Y,Brian Anderson,MIA,3B,28,67,233,24,58,9,0,7,28,5,0,26,65,0,0,5,0.249,0.337,0.378,0.715
+19,641313,Tim,Anderson,Y,Tim Anderson,CWS,SS,28,123,527,94,163,29,2,17,61,18,7,22,119,0,1,1,0.309,0.338,0.469,0.807
+20,462101,Elvis,Andrus,Y,Elvis Andrus,OAK,SS,33,146,497,60,121,25,2,3,37,12,2,31,81,3,4,6,0.243,0.294,0.32,0.614
+21,609280,Miguel,Andujar,Y,Miguel Andujar,NYY,OF,26,45,154,19,39,2,0,6,12,0,1,7,28,0,1,0,0.253,0.284,0.383,0.667
+22,606157,Aristides,Aquino,Y,Aristides Aquino,CIN,OF,27,84,174,25,33,6,1,10,23,2,2,27,75,0,2,1,0.19,0.299,0.408,0.707
+23,660620,Jonathan,Arauz,Y,Jonathan Arauz,BOS,2B,23,28,65,9,12,3,0,3,8,0,0,8,15,2,0,0,0.185,0.274,0.369,0.643
+24,606115,Orlando,Arcia,Y,Orlando Arcia,ATL,SS,27,32,70,9,15,3,0,2,13,1,0,7,16,0,1,0,0.214,0.282,0.343,0.625
+25,571448,Nolan,Arenado,Y,Nolan Arenado,STL,3B,30,157,593,81,151,34,3,34,105,2,0,50,96,0,7,3,0.255,0.312,0.494,0.806
+26,668227,Randy,Arozarena,Y,Randy Arozarena,TB,OF,26,141,529,94,145,32,3,20,69,20,10,56,170,0,5,14,0.274,0.356,0.459,0.815
+27,650333,Luis,Arraez,Y,Luis Arraez,MIN,2B,24,121,428,58,126,17,6,2,42,2,2,43,48,0,6,2,0.294,0.357,0.376,0.733
+28,624414,Christian,Arroyo,Y,Christian Arroyo,BOS,3B,26,57,164,22,43,12,0,6,25,1,0,8,44,1,0,7,0.262,0.324,0.445,0.769
+29,553902,Willians,Astudillo,Y,Willians Astudillo,MIN,C,30,73,208,17,49,8,0,7,21,0,0,3,12,0,1,4,0.236,0.259,0.375,0.634
+30,488671,Alex,Avila,Y,Alex Avila,WAS,C,34,34,89,5,17,9,1,1,9,0,0,19,37,1,0,2,0.191,0.345,0.348,0.693
+31,668731,Akil,Baddoo,Y,Akil Baddoo,DET,OF,23,124,413,60,107,20,7,13,55,18,4,45,122,0,3,0,0.259,0.33,0.436,0.766
+32,664056,Harrison,Bader,Y,Harrison Bader,STL,OF,27,103,367,45,98,21,1,16,50,9,4,27,85,0,2,5,0.267,0.324,0.46,0.784
+34,595879,Javier,Baez,Y,Javier Baez,NYM,SS,28,47,167,32,50,9,0,9,22,5,2,13,53,0,0,6,0.299,0.371,0.515,0.886
+35,605131,Austin,Barnes,Y,Austin Barnes,LAD,C,31,77,200,28,43,8,0,6,23,1,0,20,56,1,0,4,0.215,0.299,0.345,0.644
+36,571466,Tucker,Barnhart,Y,Tucker Barnhart,CIN,C,30,116,348,41,86,21,0,7,48,0,0,29,100,0,3,8,0.247,0.317,0.368,0.685
+38,641343,Jake,Bauers,Y,Jake Bauers,CLE,1B,26,43,100,7,19,3,0,2,6,0,1,12,27,0,0,0,0.19,0.277,0.28,0.557
+39,607461,Matt,Beaty,Y,Matt Beaty,LAD,1B,28,120,204,35,55,4,1,7,40,2,2,20,44,0,0,10,0.27,0.363,0.402,0.765
+40,641355,Cody,Bellinger,Y,Cody Bellinger,LAD,1B,26,95,315,39,52,9,2,10,36,3,1,31,94,0,3,1,0.165,0.24,0.302,0.542
+41,605137,Josh,Bell,Y,Josh Bell,WAS,1B,29,144,498,75,130,24,1,27,88,0,0,65,101,0,3,2,0.261,0.347,0.476,0.823
+42,474832,Brandon,Belt,Y,Brandon Belt,SF,1B,33,97,325,65,89,14,2,29,59,3,2,48,103,0,1,7,0.274,0.378,0.597,0.975
+43,643217,Andrew,Benintendi,Y,Andrew Benintendi,KC,OF,27,134,493,63,136,27,2,17,73,8,9,36,97,1,6,2,0.276,0.324,0.442,0.766
+44,542932,Jon,Berti,Y,Jon Berti,MIA,2B,31,85,233,35,49,10,1,4,19,8,4,32,61,1,2,3,0.21,0.311,0.313,0.624
+45,605141,Mookie,Betts,Y,Mookie Betts,LAD,OF,29,122,466,93,123,29,3,23,58,10,5,68,86,0,5,11,0.264,0.367,0.487,0.854
+46,666182,Bo,Bichette,Y,Bo Bichette,TOR,SS,23,159,640,121,191,30,1,29,102,25,1,40,137,0,4,6,0.298,0.343,0.484,0.827
+47,624415,Cavan,Biggio,Y,Cavan Biggio,TOR,2B,26,79,250,27,56,10,1,7,27,3,1,37,78,1,4,1,0.224,0.322,0.356,0.678
+48,453568,Charlie,Blackmon,Y,Charlie Blackmon,COL,OF,35,150,514,76,139,25,4,13,78,3,0,54,91,0,3,11,0.27,0.351,0.411,0.762
+49,607468,Alex,Blandino,Y,Alex Blandino,CIN,2B,28,43,70,9,14,4,0,0,5,1,0,8,28,0,0,4,0.2,0.317,0.257,0.574
+50,593428,Xander,Bogaerts,Y,Xander Bogaerts,BOS,SS,29,144,529,90,156,34,1,23,79,5,1,62,113,0,7,5,0.295,0.37,0.493,0.863
+51,664761,Alec,Bohm,Y,Alec Bohm,PHI,3B,25,115,380,46,94,15,0,7,47,4,0,31,111,0,4,2,0.247,0.305,0.342,0.647
+52,623520,David,Bote,Y,David Bote,CHC,2B,28,97,291,32,58,10,2,8,35,0,1,27,73,1,3,5,0.199,0.276,0.33,0.606
+53,656252,Bobby,Bradley,Y,Bobby Bradley,CLE,1B,25,74,245,36,51,10,0,16,41,0,0,25,99,0,3,6,0.208,0.294,0.445,0.739
+54,488726,Michael,Brantley,Y,Michael Brantley,HOU,OF,34,121,469,68,146,29,3,8,47,1,0,33,53,0,1,5,0.311,0.362,0.437,0.799
+55,608324,Alex,Bregman,Y,Alex Bregman,HOU,3B,27,91,348,54,94,17,0,12,55,1,0,44,53,0,4,4,0.27,0.355,0.422,0.777
+56,621446,Lewis,Brinson,Y,Lewis Brinson,MIA,OF,27,89,274,24,62,14,0,9,33,1,1,13,72,1,1,1,0.226,0.263,0.376,0.639
+57,664913,Seth,Brown,Y,Seth Brown,OAK,OF,29,111,281,43,60,13,1,20,48,4,1,23,89,0,2,1,0.214,0.274,0.48,0.754
+59,592178,Kris,Bryant,Y,Kris Bryant,SF,3B,29,51,187,28,49,13,0,7,22,6,0,23,46,0,1,1,0.262,0.344,0.444,0.788
+60,621439,Byron,Buxton,Y,Byron Buxton,MIN,OF,27,61,235,50,72,23,0,19,32,9,1,13,62,0,0,6,0.306,0.358,0.647,1.005
+61,452678,Asdrubal,Cabrera,Y,Asdrubal Cabrera,ARI,3B,35,90,283,34,69,21,0,7,40,1,0,33,73,0,3,2,0.244,0.324,0.392,0.716
+62,408234,Miguel,Cabrera,Y,Miguel Cabrera,DET,DH,38,130,472,48,121,16,0,15,75,0,0,40,118,0,9,5,0.256,0.316,0.386,0.702
+63,456715,Lorenzo,Cain,Y,Lorenzo Cain,MIL,OF,35,78,257,40,66,13,0,8,36,13,2,26,48,0,1,2,0.257,0.329,0.401,0.73
+64,594777,Kole,Calhoun,Y,Kole Calhoun,ARI,OF,34,51,166,17,39,8,0,5,17,1,0,15,41,0,1,0,0.235,0.297,0.373,0.67
+65,641432,Willie,Calhoun,Y,Willie Calhoun,TEX,OF,26,75,260,26,65,10,3,6,25,0,2,21,34,0,1,2,0.25,0.31,0.381,0.691
+66,663662,Daz,Cameron,Y,Daz Cameron,DET,OF,24,35,103,16,20,5,0,4,13,6,0,10,38,0,0,2,0.194,0.278,0.359,0.637
+67,600869,Jeimer,Candelario,Y,Jeimer Candelario,DET,1B,27,149,557,75,151,42,3,16,67,0,0,65,135,0,0,4,0.271,0.351,0.443,0.794
+68,592192,Mark,Canha,Y,Mark Canha,OAK,OF,32,141,519,93,120,22,4,17,61,12,2,77,128,0,2,27,0.231,0.358,0.387,0.745
+69,605170,Victor,Caratini,Y,Victor Caratini,SD,C,28,116,313,33,71,9,0,7,39,2,0,35,82,0,4,4,0.227,0.309,0.323,0.632
+70,666185,Dylan,Carlson,Y,Dylan Carlson,STL,OF,22,149,542,79,144,31,4,18,65,2,1,57,152,1,8,11,0.266,0.343,0.437,0.78
+71,572761,Matt,Carpenter,Y,Matt Carpenter,STL,3B,35,130,207,18,35,11,1,3,21,2,0,35,77,0,1,6,0.169,0.305,0.275,0.58
+72,592200,Curt,Casali,Y,Curt Casali,SF,C,32,77,200,20,42,11,1,5,26,0,0,26,66,1,0,4,0.21,0.313,0.35,0.663
+73,592206,Nick,Castellanos,Y,Nick Castellanos,CIN,OF,29,138,531,95,164,38,1,34,100,3,1,41,121,0,6,7,0.309,0.362,0.576,0.938
+74,605612,Harold,Castro,Y,Harold Castro,DET,OF,27,106,315,35,89,13,1,3,37,1,1,14,72,4,5,1,0.283,0.31,0.359,0.669
+75,488771,Jason,Castro,Y,Jason Castro,HOU,C,34,66,149,22,35,7,0,8,21,0,0,25,54,2,0,3,0.235,0.356,0.443,0.799
+76,516770,Starlin,Castro,Y,Starlin Castro,WAS,2B,31,87,315,25,89,20,0,3,38,0,1,26,62,0,4,0,0.283,0.333,0.375,0.708
+77,650489,Willi,Castro,Y,Willi Castro,DET,SS,24,125,413,56,91,15,6,9,38,9,4,23,109,3,3,8,0.22,0.273,0.351,0.624
+78,595909,Jake,Cave,Y,Jake Cave,MIN,OF,28,76,164,14,31,6,1,3,13,1,1,10,62,1,0,3,0.189,0.249,0.293,0.542
+79,656305,Matt,Chapman,Y,Matt Chapman,OAK,3B,28,151,529,75,111,15,3,27,72,3,2,80,202,0,9,4,0.21,0.314,0.403,0.717
+80,656308,Michael,Chavis,Y,Michael Chavis,BOS,2B,26,31,79,12,15,4,1,2,6,1,1,1,32,0,1,1,0.19,0.207,0.342,0.549
+81,455139,Robinson,Chirinos,Y,Robinson Chirinos,CHC,C,37,45,97,13,22,5,1,5,15,0,0,9,36,1,0,5,0.227,0.324,0.454,0.778
+82,665862,Jazz,Chisholm,Y,Jazz Chisholm,MIA,2B,23,124,464,70,115,20,4,18,53,23,8,34,145,2,3,4,0.248,0.303,0.425,0.728
+83,596847,Ji-Man,Choi,Y,Ji-Man Choi,TB,1B,30,83,258,36,59,14,0,11,45,0,0,45,87,0,0,2,0.229,0.348,0.411,0.759
+84,641470,Zack,Collins,Y,Zack Collins,CWS,DH,26,78,195,25,41,13,0,4,26,1,1,34,69,1,0,1,0.21,0.33,0.338,0.668
+85,624424,Michael,Conforto,Y,Michael Conforto,NYM,OF,28,125,406,52,94,20,0,14,55,1,0,59,104,0,2,12,0.232,0.344,0.384,0.728
+86,575929,Willson,Contreras,Y,Willson Contreras,CHC,C,29,128,413,61,98,20,0,21,57,5,4,52,138,0,4,14,0.237,0.34,0.438,0.778
+87,661388,William,Contreras,Y,William Contreras,ATL,C,23,52,163,19,35,4,1,8,23,0,0,19,54,0,1,2,0.215,0.303,0.399,0.702
+88,643265,Garrett,Cooper,Y,Garrett Cooper,MIA,1B,30,71,215,30,61,10,1,9,33,1,1,30,68,0,1,4,0.284,0.38,0.465,0.845
+89,614173,Franchy,Cordero,Y,Franchy Cordero,BOS,OF,27,48,127,12,24,6,0,1,9,1,1,8,51,1,0,0,0.189,0.237,0.26,0.497
+90,621043,Carlos,Correa,Y,Carlos Correa,HOU,SS,27,148,555,104,155,34,1,26,92,0,0,75,116,0,6,4,0.279,0.366,0.485,0.851
+91,543063,Brandon,Crawford,Y,Brandon Crawford,SF,SS,34,138,483,79,144,30,3,24,90,11,3,56,105,0,5,5,0.298,0.373,0.522,0.895
+92,641487,J.P.,Crawford,Y,J.P. Crawford,SEA,SS,26,160,619,89,169,37,0,9,54,3,6,58,114,1,4,5,0.273,0.338,0.376,0.714
+93,543068,C.J.,Cron,Y,C.J. Cron,COL,1B,31,142,470,70,132,31,1,28,92,1,0,60,117,0,4,13,0.281,0.375,0.53,0.905
+94,630105,Jake,Cronenworth,Y,Jake Cronenworth,SD,2B,27,152,567,94,151,33,7,21,71,4,3,55,90,3,3,10,0.266,0.34,0.46,0.8
+96,443558,Nelson,Cruz,Y,Nelson Cruz,TB,DH,41,55,217,35,49,8,0,13,36,0,0,16,63,0,2,2,0.226,0.283,0.442,0.725
+97,518586,Charlie,Culberson,Y,Charlie Culberson,TEX,OF,32,91,247,23,60,15,2,5,22,7,1,17,64,4,1,2,0.243,0.296,0.381,0.677
+98,621311,David,Dahl,Y,David Dahl,TEX,OF,27,63,205,19,43,11,0,4,18,2,1,10,59,1,3,1,0.21,0.247,0.322,0.569
+99,666915,Bobby,Dalbec,Y,Bobby Dalbec,BOS,1B,26,133,417,50,100,21,5,25,78,2,0,28,156,0,1,7,0.24,0.298,0.494,0.792
+100,605204,J.D.,Davis,Y,J.D. Davis,NYM,3B,28,73,179,18,51,12,0,5,23,1,0,24,68,0,2,6,0.285,0.384,0.436,0.82
+101,641505,Jonathan,Davis,Y,Jonathan Davis,TOR,OF,29,52,70,16,10,1,0,1,4,4,1,11,21,0,1,3,0.143,0.282,0.2,0.482
+103,501981,Khris,Davis,Y,Khris Davis,TEX,DH,33,22,51,8,8,1,1,2,5,0,0,8,16,0,2,0,0.157,0.262,0.333,0.595
+104,602074,Yonathan,Daza,Y,Yonathan Daza,COL,OF,27,107,301,26,85,12,2,2,30,2,1,21,60,6,1,2,0.282,0.332,0.355,0.687
+105,657557,Paul,DeJong,Y,Paul DeJong,STL,SS,28,113,356,44,70,10,1,19,45,4,1,35,103,0,2,9,0.197,0.284,0.39,0.674
+106,646240,Rafael,Devers,Y,Rafael Devers,BOS,3B,24,156,591,101,165,37,1,38,113,5,5,62,143,0,4,7,0.279,0.352,0.538,0.89
+107,649557,Aledmys,Diaz,Y,Aledmys Diaz,HOU,2B,31,84,294,28,76,19,0,8,45,0,1,16,62,0,0,9,0.259,0.317,0.405,0.722
+108,553869,Elias,Diaz,Y,Elias Diaz,COL,C,30,106,338,52,83,18,1,18,44,0,0,30,60,0,1,2,0.246,0.31,0.464,0.774
+109,656371,Isan,Diaz,Y,Isan Diaz,MIA,2B,25,89,238,25,46,9,0,4,17,1,1,34,73,1,3,1,0.193,0.293,0.282,0.575
+110,650331,Lewin,Diaz,Y,Lewin Diaz,MIA,1B,25,40,122,16,25,4,1,8,13,0,0,6,33,0,0,0,0.205,0.242,0.451,0.693
+111,650490,Yandy,Diaz,Y,Yandy Diaz,TB,3B,30,134,465,62,119,20,1,13,64,1,1,69,85,0,4,3,0.256,0.353,0.387,0.74
+112,543105,Alex,Dickerson,Y,Alex Dickerson,SF,OF,31,111,283,37,66,10,2,13,38,1,0,23,76,0,0,6,0.233,0.304,0.42,0.724
+114,572816,Corey,Dickerson,Y,Corey Dickerson,TOR,OF,32,46,131,16,37,6,2,4,15,4,1,9,23,0,0,0,0.282,0.329,0.45,0.779
+115,594694,Wilmer,Difo,Y,Wilmer Difo,PIT,SS,29,116,219,25,59,7,3,4,24,1,0,20,54,0,1,0,0.269,0.329,0.384,0.713
+116,518626,Josh,Donaldson,Y,Josh Donaldson,MIN,3B,35,135,457,73,113,26,0,26,72,0,0,74,114,0,8,4,0.247,0.352,0.475,0.827
+117,641531,Hunter,Dozier,Y,Hunter Dozier,KC,1B,30,144,487,55,105,27,6,16,54,5,4,43,154,0,6,7,0.216,0.285,0.394,0.679
+118,592273,Brandon,Drury,Y,Brandon Drury,NYM,3B,29,51,84,7,23,5,0,4,14,0,0,3,22,0,0,1,0.274,0.307,0.476,0.783
+119,643289,Mauricio,Dubon,Y,Mauricio Dubon,SF,2B,27,74,175,20,42,9,0,5,22,2,1,9,41,0,2,1,0.24,0.278,0.377,0.655
+120,622110,Matt,Duffy,Y,Matt Duffy,CHC,3B,30,97,289,45,83,12,0,5,30,8,1,25,63,0,1,7,0.287,0.357,0.381,0.738
+121,621453,Steven,Duggar,Y,Steven Duggar,SF,OF,27,107,268,45,69,14,5,8,35,7,0,27,88,0,0,2,0.257,0.33,0.437,0.767
+122,680776,Jarren,Duran,Y,Jarren Duran,BOS,OF,25,33,107,17,23,3,2,2,10,2,1,4,40,0,1,0,0.215,0.241,0.336,0.577
+124,594807,Adam,Duvall,Y,Adam Duvall,ATL,OF,33,55,199,26,45,7,1,16,45,0,0,14,69,0,0,3,0.226,0.287,0.513,0.8
+125,502481,Jarrod,Dyson,Y,Jarrod Dyson,KC,OF,37,77,122,13,27,7,2,0,10,8,3,6,28,3,1,0,0.221,0.256,0.311,0.567
+127,594809,Adam,Eaton,Y,Adam Eaton,LAA,OF,32,26,65,5,13,2,0,1,2,1,0,2,16,0,1,1,0.2,0.232,0.277,0.509
+128,669242,Tommy,Edman,Y,Tommy Edman,STL,2B,26,159,641,91,168,41,3,11,56,30,5,38,95,2,4,6,0.262,0.308,0.387,0.695
+129,641553,Adam,Engel,Y,Adam Engel,CWS,OF,29,39,123,21,31,9,0,7,18,7,1,11,31,0,1,5,0.252,0.336,0.496,0.832
+130,444876,Alcides,Escobar,Y,Alcides Escobar,WAS,SS,34,75,319,53,92,21,2,4,28,3,0,17,56,2,2,9,0.288,0.34,0.404,0.744
+132,500871,Eduardo,Escobar,Y,Eduardo Escobar,MIL,3B,32,48,179,27,48,12,2,6,25,0,0,19,39,0,0,1,0.268,0.342,0.458,0.8
+133,669289,Santiago,Espinal,Y,Santiago Espinal,TOR,SS,26,92,222,32,69,13,1,2,17,6,1,22,30,1,0,1,0.311,0.376,0.405,0.781
+134,642731,Thairo,Estrada,Y,Thairo Estrada,SF,2B,25,52,121,19,33,4,0,7,22,1,0,9,23,0,0,2,0.273,0.333,0.479,0.812
+135,595943,Phillip,Evans,Y,Phillip Evans,PIT,3B,29,76,214,23,44,5,0,5,16,1,0,28,53,0,0,5,0.206,0.312,0.299,0.611
+136,571657,Kyle,Farmer,Y,Kyle Farmer,CIN,2B,31,147,483,60,127,22,2,16,63,2,3,22,97,1,5,18,0.263,0.316,0.416,0.732
+137,664058,David,Fletcher,Y,David Fletcher,LAA,2B,27,157,626,74,164,27,3,2,47,15,3,31,60,6,1,1,0.262,0.297,0.324,0.621
+138,527038,Wilmer,Flores,Y,Wilmer Flores,SF,2B,30,139,389,57,102,16,1,18,53,1,0,41,56,0,3,3,0.262,0.335,0.447,0.782
+139,645801,Mike,Ford,Y,Mike Ford,NYY,1B,29,22,60,6,8,0,0,3,5,0,0,11,23,0,0,1,0.133,0.278,0.283,0.561
+140,641584,Jake,Fraley,Y,Jake Fraley,SEA,OF,26,78,214,27,45,7,0,9,36,10,2,46,71,1,2,2,0.21,0.352,0.369,0.721
+141,596748,Maikel,Franco,Y,Maikel Franco,BAL,3B,29,104,377,31,79,22,0,11,47,0,0,20,67,0,3,3,0.21,0.253,0.355,0.608
+142,664034,Ty,France,Y,Ty France,SEA,2B,27,152,571,85,166,32,1,18,73,0,0,46,106,0,6,27,0.291,0.368,0.445,0.813
+143,677551,Wander,Franco,Y,Wander Franco,TB,SS,20,70,281,53,81,18,5,7,39,2,1,24,37,0,1,2,0.288,0.347,0.463,0.81
+145,624428,Adam,Frazier,Y,Adam Frazier,SD,2B,29,57,191,25,51,8,1,1,11,5,1,13,23,3,0,4,0.267,0.327,0.335,0.662
+146,640449,Clint,Frazier,Y,Clint Frazier,NYY,OF,27,66,183,20,34,9,0,5,15,2,0,32,65,0,0,3,0.186,0.317,0.317,0.634
+147,518692,Freddie,Freeman,Y,Freddie Freeman,ATL,1B,32,159,600,120,180,25,2,31,83,8,3,85,107,0,2,8,0.3,0.393,0.503,0.896
+148,502273,Mike,Freeman,Y,Mike Freeman,CIN,2B,34,37,59,6,11,0,0,0,3,1,1,5,20,0,0,1,0.186,0.262,0.186,0.448
+149,595956,Cam,Gallagher,Y,Cam Gallagher,KC,C,28,48,112,9,28,6,0,1,7,0,0,8,20,2,1,0,0.25,0.298,0.33,0.628
+151,608336,Joey,Gallo,Y,Joey Gallo,NYY,OF,27,58,188,33,30,7,0,13,22,0,0,37,88,0,1,2,0.16,0.303,0.404,0.707
+153,520471,Freddy,Galvis,Y,Freddy Galvis,PHI,2B,31,32,107,17,24,3,0,5,14,0,0,9,19,0,2,2,0.224,0.292,0.393,0.685
+154,592325,Ben,Gamel,Y,Ben Gamel,PIT,OF,29,111,326,42,83,17,3,8,26,3,6,48,99,2,4,3,0.255,0.352,0.399,0.751
+155,666969,Adolis,Garcia,Y,Adolis Garcia,TEX,OF,28,149,581,77,141,26,2,31,90,16,5,32,194,0,4,5,0.243,0.286,0.454,0.74
+156,605244,Aramis,Garcia,Y,Aramis Garcia,OAK,C,28,32,88,8,18,1,0,3,7,0,0,1,28,2,0,3,0.205,0.239,0.318,0.557
+157,541645,Avisail,Garcia,Y,Avisail Garcia,MIL,OF,30,135,461,68,121,18,0,29,86,8,4,38,121,0,5,11,0.262,0.33,0.49,0.82
+158,544725,Leury,Garcia,Y,Leury Garcia,CWS,SS,30,126,415,60,111,22,4,5,54,6,2,41,97,9,5,4,0.267,0.335,0.376,0.711
+159,671277,Luis,Garcia,Y,Luis Garcia,WAS,2B,21,70,236,29,57,18,2,6,22,0,2,11,43,0,0,0,0.242,0.275,0.411,0.686
+160,596825,Robel,Garcia,Y,Robel Garcia,HOU,2B,28,47,106,8,16,3,0,1,8,0,0,8,42,1,1,1,0.151,0.216,0.208,0.424
+161,458731,Brett,Gardner,Y,Brett Gardner,NYY,OF,38,140,387,47,86,16,4,10,39,4,0,60,100,5,6,3,0.222,0.327,0.362,0.689
+162,664247,Kyle,Garlick,Y,Kyle Garlick,MIN,OF,29,36,99,17,23,8,0,5,10,1,0,6,32,0,1,1,0.232,0.28,0.465,0.745
+163,572863,Dustin,Garneau,Y,Dustin Garneau,DET,C,34,20,62,9,13,5,0,6,11,0,0,3,18,0,2,1,0.21,0.25,0.581,0.831
+164,641598,Mitch,Garver,Y,Mitch Garver,MIN,C,30,68,207,29,53,15,0,13,34,1,1,31,71,0,2,3,0.256,0.358,0.517,0.875
+165,665926,Andres,Gimenez,Y,Andres Gimenez,CLE,SS,23,68,188,23,41,10,0,5,16,11,0,11,54,1,3,7,0.218,0.282,0.351,0.633
+166,502671,Paul,Goldschmidt,Y,Paul Goldschmidt,STL,1B,34,158,603,102,177,36,2,31,99,12,0,67,136,0,5,4,0.294,0.365,0.514,0.879
+168,543228,Yan,Gomes,Y,Yan Gomes,OAK,C,34,40,131,19,29,4,0,5,17,0,0,6,31,0,1,2,0.221,0.264,0.366,0.63
+169,570481,Erik,Gonzalez,Y,Erik Gonzalez,PIT,SS,30,71,220,17,51,7,1,2,21,2,2,8,40,0,1,0,0.232,0.258,0.3,0.558
+170,503556,Marwin,Gonzalez,Y,Marwin Gonzalez,BOS,2B,32,77,242,25,49,14,0,2,20,3,2,19,70,1,1,8,0.202,0.281,0.285,0.566
+171,592348,Niko,Goodrum,Y,Niko Goodrum,DET,2B,29,90,290,39,62,11,2,9,33,14,5,29,107,0,2,4,0.214,0.292,0.359,0.651
+172,571718,Brian,Goodwin,Y,Brian Goodwin,CWS,OF,30,72,235,33,52,10,1,8,29,1,0,33,58,1,1,1,0.221,0.319,0.374,0.693
+173,624503,Nick,Gordon,Y,Nick Gordon,MIN,SS,25,73,200,19,48,9,1,4,23,10,1,12,55,0,1,3,0.24,0.292,0.355,0.647
+174,594838,Phil,Gosselin,Y,Phil Gosselin,LAA,OF,33,104,345,40,90,14,0,7,47,4,2,24,81,0,1,3,0.261,0.314,0.362,0.676
+175,666971,Lourdes,Gurriel,Y,Lourdes Gurriel,TOR,OF,27,141,500,62,138,28,2,21,84,1,3,32,102,1,6,2,0.276,0.319,0.466,0.785
+176,518735,Yasmani,Grandal,Y,Yasmani Grandal,CWS,C,32,93,279,60,67,9,0,23,62,0,0,87,82,1,5,3,0.24,0.42,0.52,0.94
+177,544369,Didi,Gregorius,Y,Didi Gregorius,PHI,SS,31,103,368,35,77,16,2,13,54,3,0,25,67,0,7,8,0.209,0.27,0.37,0.64
+178,606988,Grayson,Greiner,Y,Grayson Greiner,DET,C,29,31,72,7,17,4,0,1,7,0,0,9,31,1,0,0,0.236,0.321,0.333,0.654
+179,545341,Randal,Grichuk,Y,Randal Grichuk,TOR,OF,30,149,511,59,123,25,1,22,81,0,3,27,114,0,4,3,0.241,0.281,0.423,0.704
+180,663757,Trent,Grisham,Y,Trent Grisham,SD,OF,24,132,462,61,112,28,3,15,62,13,5,54,119,1,4,6,0.242,0.327,0.413,0.74
+181,543257,Robbie,Grossman,Y,Robbie Grossman,DET,OF,32,156,557,88,133,23,3,23,67,20,5,98,155,2,6,8,0.239,0.357,0.415,0.772
+182,115223,Vladimir,Guerrero,N,Vladimir Guerrero,TOR,1B,22,161,604,123,188,29,1,48,111,4,1,86,110,0,2,6,0.311,0.401,0.601,1.002
+183,641645,Luis,Guillorme,Y,Luis Guillorme,NYM,2B,27,69,132,13,35,3,0,1,5,0,2,23,23,1,0,0,0.265,0.374,0.311,0.685
+185,642721,Kelvin,Gutierrez,Y,Kelvin Gutierrez,KC,3B,27,38,135,9,29,4,2,1,8,0,1,6,31,0,0,1,0.215,0.254,0.296,0.55
+186,606992,Eric,Haase,Y,Eric Haase,DET,C,28,98,351,48,81,12,1,22,61,2,0,26,119,0,2,2,0.231,0.286,0.459,0.745
+187,664059,Sam,Haggerty,Y,Sam Haggerty,SEA,OF,27,35,86,15,16,3,0,2,5,5,1,6,28,1,0,1,0.186,0.247,0.291,0.538
+188,571740,Billy,Hamilton,Y,Billy Hamilton,CWS,OF,31,71,127,23,28,8,3,2,11,9,0,4,47,3,1,0,0.22,0.242,0.378,0.62
+189,641658,Garrett,Hampson,Y,Garrett Hampson,COL,2B,27,147,453,69,106,21,6,11,33,17,7,33,118,3,2,3,0.234,0.289,0.38,0.669
+190,571745,Mitch,Haniger,Y,Mitch Haniger,SEA,OF,30,157,620,110,157,23,2,39,100,1,0,54,169,0,8,9,0.253,0.318,0.485,0.803
+191,664023,Ian,Happ,Y,Ian Happ,CHC,OF,27,148,465,63,105,20,1,25,66,9,2,62,156,2,1,5,0.226,0.323,0.434,0.757
+192,547180,Bryce,Harper,Y,Bryce Harper,PHI,OF,29,141,488,101,151,42,1,35,84,13,3,100,134,2,4,5,0.309,0.429,0.615,1.044
+194,543281,Josh,Harrison,Y,Josh Harrison,OAK,2B,34,48,185,19,47,10,0,2,22,4,3,6,25,0,2,6,0.254,0.296,0.341,0.637
+195,663647,Ke'Bryan,Hayes,Y,Ke'Bryan Hayes,PIT,3B,24,96,362,49,93,20,2,6,38,9,1,31,87,0,2,1,0.257,0.316,0.373,0.689
+196,669720,Austin,Hays,Y,Austin Hays,BAL,OF,26,131,488,73,125,26,4,22,71,4,3,28,107,3,1,9,0.256,0.308,0.461,0.769
+197,595978,Austin,Hedges,Y,Austin Hedges,CLE,C,29,88,286,32,51,7,0,10,31,1,0,15,87,7,3,1,0.178,0.22,0.308,0.528
+198,641680,Jonah,Heim,Y,Jonah Heim,TEX,C,26,82,265,22,52,13,0,10,32,3,1,15,58,1,3,1,0.196,0.239,0.358,0.597
+199,628338,Guillermo,Heredia,Y,Guillermo Heredia,ATL,OF,30,120,305,46,67,26,0,5,26,0,0,32,81,0,1,9,0.22,0.311,0.354,0.665
+201,514917,Cesar,Hernandez,Y,Cesar Hernandez,CWS,2B,31,53,194,24,45,4,0,3,15,1,1,21,45,0,1,1,0.232,0.309,0.299,0.608
+202,571771,Enrique,Hernandez,Y,Enrique Hernandez,BOS,2B,30,134,508,84,127,35,3,20,60,1,0,61,110,0,7,9,0.25,0.337,0.449,0.786
+203,606192,Teoscar,Hernandez,Y,Teoscar Hernandez,TOR,OF,29,143,550,92,163,29,0,32,116,12,4,36,148,0,2,7,0.296,0.346,0.524,0.87
+204,546318,Odubel,Herrera,Y,Odubel Herrera,PHI,OF,29,124,450,59,117,27,2,13,51,6,1,29,77,1,5,6,0.26,0.31,0.416,0.726
+205,518792,Jason,Heyward,Y,Jason Heyward,CHC,OF,32,104,323,35,69,15,2,8,30,5,1,27,68,0,0,3,0.214,0.28,0.347,0.627
+206,543305,Aaron,Hicks,Y,Aaron Hicks,NYY,OF,32,32,108,13,21,3,0,4,14,0,0,14,30,0,2,2,0.194,0.294,0.333,0.627
+207,543309,Kyle,Higashioka,Y,Kyle Higashioka,NYY,C,31,67,193,20,35,10,0,10,29,0,0,17,59,0,1,0,0.181,0.246,0.389,0.635
+208,656541,Sam,Hilliard,Y,Sam Hilliard,COL,OF,27,81,214,32,46,7,2,14,34,5,0,23,87,0,0,1,0.215,0.294,0.463,0.757
+209,669374,Keston,Hiura,Y,Keston Hiura,MIL,2B,25,61,173,16,29,9,1,4,19,3,0,14,77,2,1,7,0.168,0.256,0.301,0.557
+210,663538,Nico,Hoerner,Y,Nico Hoerner,CHC,2B,24,44,149,13,45,10,0,0,16,5,3,17,25,0,1,3,0.302,0.382,0.369,0.751
+211,571788,Brock,Holt,Y,Brock Holt,TEX,3B,33,77,235,21,49,13,1,2,23,5,1,23,49,0,1,1,0.209,0.281,0.298,0.579
+212,656555,Rhys,Hoskins,Y,Rhys Hoskins,PHI,1B,28,107,389,64,96,29,0,27,71,3,2,47,108,0,2,5,0.247,0.334,0.53,0.864
+213,543333,Eric,Hosmer,Y,Eric Hosmer,SD,1B,31,151,509,53,137,28,0,12,65,5,4,48,99,1,2,5,0.269,0.337,0.395,0.732
+215,578428,Jose,Iglesias,Y,Jose Iglesias,BOS,SS,31,23,59,8,21,4,1,1,7,0,0,3,9,0,0,2,0.356,0.406,0.508,0.914
+216,542255,Ender,Inciarte,Y,Ender Inciarte,ATL,OF,30,52,79,11,17,2,0,2,10,1,0,7,22,2,1,0,0.215,0.276,0.316,0.592
+217,663697,Jonathan,India,Y,Jonathan India,CIN,2B,24,150,532,98,143,34,2,21,69,12,3,71,141,1,4,23,0.269,0.376,0.459,0.835
+219,656577,Alex,Jackson,Y,Alex Jackson,MIA,C,25,42,108,11,17,4,0,3,12,0,0,11,60,0,0,4,0.157,0.26,0.278,0.538
+220,608671,Travis,Jankowski,Y,Travis Jankowski,PHI,OF,30,76,131,24,33,6,2,1,10,5,0,22,29,2,0,1,0.252,0.364,0.351,0.715
+221,643376,Danny,Jansen,Y,Danny Jansen,TOR,C,26,70,184,32,41,13,0,11,28,0,0,17,44,1,0,3,0.223,0.299,0.473,0.772
+222,680777,Ryan,Jeffers,Y,Ryan Jeffers,MIN,C,24,85,267,28,53,10,1,14,35,0,1,22,108,0,0,4,0.199,0.27,0.401,0.671
+223,650391,Eloy,Jimenez,Y,Eloy Jimenez,CWS,OF,24,55,213,23,53,10,0,10,37,0,0,16,57,0,1,1,0.249,0.303,0.437,0.74
+224,656582,Connor,Joe,Y,Connor Joe,COL,OF,29,63,179,23,51,9,0,8,35,0,0,26,41,0,3,3,0.285,0.379,0.469,0.848
+225,669288,Daniel,Johnson,Y,Daniel Johnson,CLE,OF,26,30,77,9,17,0,0,4,5,1,0,4,27,0,0,0,0.221,0.259,0.377,0.636
+226,663330,Jahmai,Jones,Y,Jahmai Jones,BAL,2B,24,26,67,5,10,3,0,0,3,1,0,4,26,0,0,1,0.149,0.208,0.194,0.402
+227,592444,JaCoby,Jones,Y,JaCoby Jones,DET,OF,29,36,100,9,17,2,0,2,9,2,2,5,42,0,0,0,0.17,0.21,0.25,0.46
+228,459964,Matt,Joyce,Y,Matt Joyce,PHI,OF,37,43,55,6,5,1,0,2,7,0,0,12,16,0,1,1,0.091,0.261,0.218,0.479
+229,592450,Aaron,Judge,Y,Aaron Judge,NYY,OF,29,148,550,89,158,24,0,39,98,6,1,75,158,0,5,3,0.287,0.373,0.544,0.917
+230,672284,Jarred,Kelenic,Y,Jarred Kelenic,SEA,OF,22,93,337,41,61,13,1,14,43,6,4,36,106,0,1,3,0.181,0.265,0.35,0.615
+231,608348,Carson,Kelly,Y,Carson Kelly,ARI,C,27,98,304,41,73,11,1,13,46,0,0,44,74,0,5,6,0.24,0.343,0.411,0.754
+232,643393,Tony,Kemp,Y,Tony Kemp,OAK,2B,29,131,330,54,92,16,3,8,37,8,2,52,51,4,5,6,0.279,0.382,0.418,0.8
+233,596146,Max,Kepler,Y,Max Kepler,MIN,OF,28,121,426,61,90,21,4,19,54,10,0,54,96,0,4,6,0.211,0.306,0.413,0.719
+234,666198,Carter,Kieboom,Y,Carter Kieboom,WAS,3B,24,62,217,26,45,6,0,6,20,0,0,25,62,0,2,5,0.207,0.301,0.318,0.619
+235,595281,Kevin,Kiermaier,Y,Kevin Kiermaier,TB,OF,31,122,348,54,90,19,7,4,37,9,5,33,99,0,4,5,0.259,0.328,0.388,0.716
+236,673490,Ha-Seong,Kim,Y,Ha-Seong Kim,SD,SS,25,117,267,27,54,12,2,8,34,6,1,22,71,2,3,4,0.202,0.27,0.352,0.622
+237,643396,Isiah,Kiner-Falefa,Y,Isiah Kiner-Falefa,TEX,SS,26,158,635,74,172,25,3,8,53,20,5,28,90,1,2,11,0.271,0.312,0.357,0.669
+238,666135,Alex,Kirilloff,Y,Alex Kirilloff,MIN,OF,23,59,215,23,54,11,1,8,34,1,1,14,52,0,1,1,0.251,0.299,0.423,0.722
+239,672386,Alejandro,Kirk,Y,Alejandro Kirk,TOR,C,22,60,165,19,40,8,0,8,24,0,0,19,22,0,2,3,0.242,0.328,0.436,0.764
+240,595284,Andrew,Knapp,Y,Andrew Knapp,PHI,C,29,62,145,13,22,3,0,2,11,0,0,10,61,1,1,2,0.152,0.215,0.214,0.429
+241,668800,Andrew,Knizner,Y,Andrew Knizner,STL,C,26,63,161,18,28,7,0,1,9,0,0,20,39,0,0,4,0.174,0.281,0.236,0.517
+242,501571,Juan,Lagares,Y,Juan Lagares,LAA,OF,32,112,309,39,73,20,2,6,38,1,2,12,76,4,1,1,0.236,0.266,0.372,0.638
+243,663616,Trevor,Larnach,Y,Trevor Larnach,MIN,OF,24,79,260,29,58,12,0,7,28,1,0,31,104,0,2,8,0.223,0.322,0.35,0.672
+244,600303,Tommy,La Stella,Y,Tommy La Stella,SF,2B,32,76,220,26,55,11,1,7,27,0,0,18,26,0,1,1,0.25,0.308,0.405,0.713
+245,657656,Ramon,Laureano,Y,Ramon Laureano,OAK,OF,27,88,341,43,84,21,2,14,39,12,5,27,98,0,1,9,0.246,0.317,0.443,0.76
+246,518934,DJ,LeMahieu,Y,DJ LeMahieu,NYY,2B,33,150,597,84,160,24,1,10,57,4,2,73,94,0,5,4,0.268,0.349,0.362,0.711
+247,506702,Sandy,Leon,Y,Sandy Leon,MIA,C,32,84,202,15,37,5,0,4,14,0,0,12,65,1,2,3,0.183,0.237,0.267,0.504
+248,641786,Kyle,Lewis,Y,Kyle Lewis,SEA,OF,26,36,130,15,32,4,0,5,11,2,0,16,37,0,0,1,0.246,0.333,0.392,0.725
+249,642736,Domingo,Leyba,Y,Domingo Leyba,BAL,2B,26,21,65,6,10,1,0,1,4,0,0,6,16,0,0,1,0.154,0.236,0.215,0.451
+250,596019,Francisco,Lindor,Y,Francisco Lindor,NYM,SS,27,125,452,73,104,16,3,20,63,10,4,58,96,6,3,5,0.23,0.322,0.412,0.734
+251,641796,Tim,Locastro,Y,Tim Locastro,ARI,OF,29,55,118,11,21,2,0,1,5,5,3,6,26,0,0,9,0.178,0.271,0.22,0.491
+252,446334,Evan,Longoria,Y,Evan Longoria,SF,3B,36,81,253,45,66,17,0,13,46,1,1,35,68,0,2,1,0.261,0.351,0.482,0.833
+253,643418,Shed,Long,Y,Shed Long,SEA,2B,26,34,111,13,22,4,1,4,17,1,0,9,39,1,0,0,0.198,0.258,0.36,0.618
+254,670032,Nicky,Lopez,Y,Nicky Lopez,KC,2B,26,151,497,78,149,21,6,2,43,22,1,49,74,12,3,4,0.3,0.365,0.378,0.743
+255,664040,Brandon,Lowe,Y,Brandon Lowe,TB,2B,27,149,535,97,132,31,0,39,99,7,1,68,167,0,3,9,0.247,0.34,0.523,0.863
+256,476704,Jed,Lowrie,Y,Jed Lowrie,OAK,2B,37,139,457,55,112,28,0,14,69,0,0,49,108,0,4,2,0.245,0.318,0.398,0.716
+258,656669,Jordan,Luplow,Y,Jordan Luplow,TB,OF,28,26,65,11,16,3,0,4,8,1,0,7,26,0,0,0,0.246,0.319,0.477,0.796
+259,666158,Gavin,Lux,Y,Gavin Lux,LAD,2B,23,102,335,49,81,12,4,7,46,4,1,41,83,0,2,3,0.242,0.328,0.364,0.692
+260,592518,Manny,Machado,Y,Manny Machado,SD,3B,29,153,564,92,157,31,2,28,106,12,3,63,102,0,11,2,0.278,0.347,0.489,0.836
+261,663611,Nick,Madrigal,Y,Nick Madrigal,CWS,2B,24,54,200,30,61,10,4,2,21,1,2,11,17,0,1,3,0.305,0.349,0.425,0.774
+262,455117,Martin,Maldonado,Y,Martin Maldonado,HOU,C,35,125,373,40,64,10,1,12,36,0,0,47,127,0,1,5,0.172,0.272,0.3,0.572
+263,641820,Trey,Mancini,Y,Trey Mancini,BAL,1B,29,147,556,77,142,33,1,21,71,0,0,51,143,0,1,8,0.255,0.326,0.432,0.758
+264,622534,Manuel,Margot,Y,Manuel Margot,TB,OF,27,125,421,55,107,18,3,10,57,13,8,37,70,1,4,1,0.254,0.313,0.382,0.695
+265,545350,Jake,Marisnick,Y,Jake Marisnick,CHC,OF,30,65,128,17,29,6,3,5,22,3,1,9,43,1,2,4,0.227,0.294,0.438,0.732
+266,592530,Jose,Marmolejos,Y,Jose Marmolejos,SEA,OF,28,41,106,11,17,4,0,4,12,0,0,15,39,0,1,0,0.16,0.262,0.311,0.573
+267,669016,Brandon,Marsh,Y,Brandon Marsh,LAA,OF,23,70,236,27,60,12,3,2,19,6,1,20,91,1,1,2,0.254,0.317,0.356,0.673
+268,606466,Ketel,Marte,Y,Ketel Marte,ARI,2B,28,90,340,52,108,29,1,14,50,2,0,31,60,0,1,2,0.318,0.377,0.532,0.909
+270,516782,Starling,Marte,Y,Starling Marte,MIA,OF,33,64,233,52,71,11,1,7,25,22,3,32,57,1,1,8,0.305,0.405,0.451,0.856
+271,641829,Jason,Martin,Y,Jason Martin,TEX,OF,26,58,144,14,30,3,0,6,17,3,1,8,41,1,1,0,0.208,0.248,0.354,0.602
+272,502110,J.D.,Martinez,Y,J.D. Martinez,BOS,DH,34,148,570,92,163,42,3,28,99,0,0,55,150,0,5,3,0.286,0.349,0.518,0.867
+273,621006,Richie,Martin,Y,Richie Martin,BAL,SS,26,37,98,9,23,2,0,1,8,0,2,4,28,1,1,1,0.235,0.269,0.286,0.555
+275,622761,Jorge,Mateo,Y,Jorge Mateo,SD,OF,26,57,87,10,18,4,0,2,6,5,0,2,27,1,0,3,0.207,0.25,0.322,0.572
+276,665155,Nick,Maton,Y,Nick Maton,PHI,SS,24,52,117,16,30,7,1,2,14,2,0,10,39,1,1,2,0.256,0.323,0.385,0.708
+277,608686,Jack,Mayfield,Y,Jack Mayfield,LAA,SS,31,75,232,28,52,14,0,10,36,5,0,16,58,3,1,3,0.224,0.282,0.414,0.696
+278,608577,Nomar,Mazara,Y,Nomar Mazara,DET,OF,26,50,165,12,35,5,2,3,19,0,0,15,45,0,1,0,0.212,0.276,0.321,0.597
+279,543510,James,McCann,Y,James McCann,NYM,C,31,121,375,29,87,12,1,10,46,1,2,32,115,0,3,2,0.232,0.294,0.349,0.643
+280,676801,Chas,McCormick,Y,Chas McCormick,HOU,OF,26,108,284,47,73,12,0,14,50,4,2,25,104,0,7,4,0.257,0.319,0.447,0.766
+281,457705,Andrew,McCutchen,Y,Andrew McCutchen,PHI,OF,35,144,482,78,107,24,1,27,80,6,1,81,132,0,7,4,0.222,0.334,0.444,0.778
+282,624512,Reese,McGuire,Y,Reese McGuire,TOR,C,26,78,198,22,50,15,0,1,10,0,0,15,44,1,1,2,0.253,0.31,0.343,0.653
+285,641856,Billy,McKinney,Y,Billy McKinney,LAD,OF,27,37,82,8,12,2,1,1,7,0,0,14,24,0,1,1,0.146,0.276,0.232,0.508
+286,656716,Zach,McKinstry,Y,Zach McKinstry,LAD,2B,26,60,158,19,34,9,0,7,29,1,1,10,50,1,2,1,0.215,0.263,0.405,0.668
+287,641857,Ryan,McMahon,Y,Ryan McMahon,COL,2B,26,151,528,80,134,32,1,23,86,6,2,59,147,0,5,4,0.254,0.331,0.449,0.78
+288,643446,Jeff,McNeil,Y,Jeff McNeil,NYM,2B,29,120,386,48,97,19,1,7,35,3,0,29,58,0,1,10,0.251,0.319,0.36,0.679
+289,640457,Austin,Meadows,Y,Austin Meadows,TB,OF,26,142,518,79,121,29,3,27,106,4,3,59,122,0,8,6,0.234,0.315,0.458,0.773
+290,642336,Francisco,Mejia,Y,Francisco Mejia,TB,C,25,84,250,31,65,15,3,6,35,0,0,17,49,1,2,7,0.26,0.322,0.416,0.738
+291,664901,Danny,Mendick,Y,Danny Mendick,CWS,2B,28,71,164,14,36,5,0,2,20,0,1,18,42,1,1,2,0.22,0.303,0.287,0.59
+292,640458,Oscar,Mercado,Y,Oscar Mercado,CLE,OF,26,72,214,27,48,11,1,6,19,7,1,21,42,1,0,2,0.224,0.3,0.369,0.669
+293,474568,Jordy,Mercer,Y,Jordy Mercer,WAS,SS,35,46,118,13,30,7,0,2,9,0,0,9,34,0,0,0,0.254,0.307,0.364,0.671
+294,606213,Yermin,Mercedes,Y,Yermin Mercedes,CWS,DH,28,68,240,26,65,9,1,7,37,0,1,20,46,0,1,1,0.271,0.328,0.404,0.732
+295,593160,Whit,Merrifield,Y,Whit Merrifield,KC,2B,32,162,664,97,184,42,3,10,74,40,4,40,103,0,12,4,0.277,0.317,0.395,0.712
+296,543543,Brad,Miller,Y,Brad Miller,PHI,3B,31,140,331,53,75,9,3,20,49,3,0,45,112,0,0,1,0.227,0.321,0.453,0.774
+297,680911,Owen,Miller,Y,Owen Miller,CLE,2B,24,60,191,17,39,8,0,4,18,2,0,9,54,0,1,1,0.204,0.243,0.309,0.552
+298,425877,Yadier,Molina,Y,Yadier Molina,STL,C,39,121,440,45,111,19,0,11,66,3,0,24,79,0,3,5,0.252,0.297,0.37,0.667
+299,660162,Yoan,Moncada,Y,Yoan Moncada,CWS,3B,26,144,520,74,137,33,1,14,61,3,2,84,157,0,2,10,0.263,0.375,0.412,0.787
+300,609275,Adalberto,Mondesi,Y,Adalberto Mondesi,KC,SS,26,35,126,19,29,8,1,6,17,15,1,6,43,3,0,1,0.23,0.271,0.452,0.723
+301,664238,Dylan,Moore,Y,Dylan Moore,SEA,2B,29,126,332,42,60,11,2,12,43,21,5,40,111,0,1,4,0.181,0.276,0.334,0.61
+302,592567,Colin,Moran,Y,Colin Moran,PIT,1B,29,99,318,29,82,12,0,10,50,1,0,36,87,0,3,2,0.258,0.334,0.39,0.724
+303,519048,Mitch,Moreland,Y,Mitch Moreland,OAK,1B,36,81,229,28,52,11,1,10,30,0,0,18,58,0,3,2,0.227,0.286,0.415,0.701
+304,663624,Ryan,Mountcastle,Y,Ryan Mountcastle,BAL,1B,24,144,534,77,136,23,1,33,89,4,3,41,161,0,7,4,0.255,0.309,0.487,0.796
+305,519058,Mike,Moustakas,Y,Mike Moustakas,CIN,2B,33,62,183,21,38,12,0,6,22,0,0,18,46,0,3,2,0.208,0.282,0.372,0.654
+306,656775,Cedric,Mullins,Y,Cedric Mullins,BAL,OF,27,159,602,91,175,37,5,30,59,30,8,59,125,1,4,8,0.291,0.36,0.518,0.878
+307,571970,Max,Muncy,Y,Max Muncy,LAD,2B,31,144,497,95,124,26,2,36,94,2,1,83,120,0,1,11,0.249,0.368,0.527,0.895
+308,669221,Sean,Murphy,Y,Sean Murphy,OAK,C,27,119,393,47,85,23,0,17,59,0,0,40,114,0,3,12,0.216,0.306,0.405,0.711
+309,608596,Tom,Murphy,Y,Tom Murphy,SEA,C,30,97,277,35,56,8,0,11,34,0,0,40,99,0,3,2,0.202,0.304,0.35,0.654
+310,571976,Wil,Myers,Y,Wil Myers,SD,OF,30,146,442,56,113,24,2,17,63,8,5,54,141,0,4,0,0.256,0.334,0.434,0.768
+311,571980,Tyler,Naquin,Y,Tyler Naquin,CIN,OF,30,127,411,52,111,24,2,19,70,5,3,35,106,0,3,5,0.27,0.333,0.477,0.81
+312,553882,Omar,Narvaez,Y,Omar Narvaez,MIL,C,29,123,391,54,104,20,0,11,49,0,0,41,84,0,6,7,0.266,0.342,0.402,0.744
+313,647304,Josh,Naylor,Y,Josh Naylor,CLE,OF,24,69,233,28,59,13,0,7,21,1,0,14,45,0,0,2,0.253,0.301,0.399,0.7
+314,641914,Sheldon,Neuse,Y,Sheldon Neuse,LAD,2B,26,33,65,6,11,1,0,3,4,1,1,1,26,0,0,0,0.169,0.182,0.323,0.505
+315,621028,Kevin,Newman,Y,Kevin Newman,PIT,2B,28,148,517,50,117,22,3,5,39,6,1,27,41,6,3,1,0.226,0.265,0.309,0.574
+316,621512,Tomas,Nido,Y,Tomas Nido,NYM,C,27,58,153,16,34,5,1,3,13,1,0,5,44,0,0,3,0.222,0.261,0.327,0.588
+317,607043,Brandon,Nimmo,Y,Brandon Nimmo,NYM,OF,28,92,325,51,95,17,3,8,28,5,4,54,79,2,0,5,0.292,0.401,0.437,0.838
+318,543592,Austin,Nola,Y,Austin Nola,SD,C,31,56,173,15,47,12,0,2,29,0,1,14,19,0,2,5,0.272,0.34,0.376,0.716
+319,624513,Dom,Nunez,Y,Dom Nunez,COL,C,26,81,228,31,43,12,3,10,33,0,0,34,91,0,1,0,0.189,0.293,0.399,0.692
+320,600524,Renato,Nunez,Y,Renato Nunez,DET,1B,27,14,53,7,10,3,0,4,7,0,0,1,16,0,0,1,0.189,0.218,0.472,0.69
+321,596059,Rougned,Odor,Y,Rougned Odor,NYY,2B,27,102,322,42,65,12,0,15,39,0,1,27,100,1,0,11,0.202,0.286,0.379,0.665
+322,657434,Brian,O'Grady,Y,Brian O'Grady,SD,OF,29,32,51,8,8,3,0,2,9,0,0,8,17,1,1,0,0.157,0.267,0.333,0.6
+323,656811,Ryan,O'Hearn,Y,Ryan O'Hearn,KC,1B,28,84,236,23,53,5,1,9,29,0,0,13,71,0,3,2,0.225,0.268,0.369,0.637
+324,660271,Shohei,Ohtani,Y,Shohei Ohtani,LAA,DH,27,158,537,103,138,26,8,46,100,26,10,96,189,0,2,4,0.257,0.372,0.592,0.964
+325,658668,Edward,Olivares,Y,Edward Olivares,KC,OF,25,39,101,14,24,2,0,5,12,2,2,5,19,1,1,3,0.238,0.291,0.406,0.697
+326,621566,Matt,Olson,Y,Matt Olson,OAK,1B,27,156,565,101,153,35,0,39,111,4,1,88,113,0,11,9,0.271,0.371,0.54,0.911
+327,641933,Tyler,O'Neill,Y,Tyler O'Neill,STL,OF,26,138,482,89,138,26,2,34,80,15,4,38,168,0,4,13,0.286,0.352,0.56,0.912
+328,542364,Rafael,Ortega,Y,Rafael Ortega,CHC,OF,30,103,296,44,86,14,2,11,33,12,6,30,70,2,0,2,0.291,0.36,0.463,0.823
+329,542303,Marcell,Ozuna,Y,Marcell Ozuna,ATL,OF,30,48,188,21,40,6,0,7,26,0,0,19,46,0,0,1,0.213,0.288,0.356,0.644
+330,665506,Cristian,Pache,Y,Cristian Pache,ATL,OF,22,22,63,6,7,3,0,1,4,0,0,2,25,2,0,1,0.111,0.152,0.206,0.358
+332,605412,Joe,Panik,Y,Joe Panik,TOR,2B,30,42,114,9,28,6,0,2,11,0,0,8,14,0,1,0,0.246,0.293,0.351,0.644
+333,670623,Isaac,Paredes,Y,Isaac Paredes,DET,3B,22,23,72,7,15,3,1,1,5,0,0,10,11,0,2,1,0.208,0.306,0.319,0.625
+334,467827,Gerardo,Parra,Y,Gerardo Parra,WAS,OF,34,53,97,13,23,5,0,2,10,1,1,6,30,1,1,2,0.237,0.292,0.351,0.643
+336,592626,Joc,Pederson,Y,Joc Pederson,ATL,OF,29,64,173,20,43,8,1,7,22,0,0,17,43,0,1,3,0.249,0.325,0.428,0.753
+337,444482,David,Peralta,Y,David Peralta,ARI,OF,34,150,487,57,126,30,8,8,63,2,1,46,92,0,2,3,0.259,0.325,0.402,0.727
+338,606299,Jose,Peraza,Y,Jose Peraza,NYM,2B,27,64,142,21,29,7,0,6,20,1,0,9,26,0,0,3,0.204,0.266,0.38,0.646
+339,605421,Michael,Perez,Y,Michael Perez,PIT,C,29,70,210,19,30,8,1,7,21,0,1,19,68,0,0,2,0.143,0.221,0.29,0.511
+340,547379,Roberto,Perez,Y,Roberto Perez,CLE,C,32,44,141,13,21,3,0,7,17,1,0,17,56,2,0,1,0.149,0.245,0.319,0.564
+341,521692,Salvador,Perez,Y,Salvador Perez,KC,C,31,161,620,88,169,24,0,48,121,1,0,28,170,0,4,13,0.273,0.316,0.544,0.86
+342,607054,Jace,Peterson,Y,Jace Peterson,MIL,OF,31,94,259,36,64,11,1,6,31,10,1,38,68,0,2,3,0.247,0.348,0.367,0.715
+343,502054,Tommy,Pham,Y,Tommy Pham,SD,OF,33,155,475,74,109,24,2,15,49,14,6,78,128,0,4,4,0.229,0.34,0.383,0.723
+344,621433,Brett,Phillips,Y,Brett Phillips,TB,OF,27,119,253,50,52,9,4,13,44,14,3,33,113,2,2,2,0.206,0.3,0.427,0.727
+345,607680,Kevin,Pillar,Y,Kevin Pillar,NYM,OF,32,124,325,40,75,11,2,15,47,4,3,11,81,0,1,10,0.231,0.277,0.415,0.692
+346,444489,Manny,Pina,Y,Manny Pina,MIL,C,34,75,180,27,34,6,0,13,33,0,0,22,38,0,1,5,0.189,0.293,0.439,0.732
+347,640461,Chad,Pinder,Y,Chad Pinder,OAK,2B,29,75,214,30,52,16,1,6,27,1,0,16,62,0,1,2,0.243,0.3,0.411,0.711
+348,572039,Stephen,Piscotty,Y,Stephen Piscotty,OAK,OF,30,72,173,14,38,8,0,5,16,1,0,13,48,0,0,2,0.22,0.282,0.353,0.635
+349,608700,Kevin,Plawecki,Y,Kevin Plawecki,BOS,C,30,64,157,15,45,7,0,3,15,0,0,12,26,1,0,3,0.287,0.349,0.389,0.738
+350,570256,Gregory,Polanco,Y,Gregory Polanco,PIT,OF,30,107,336,38,70,12,2,11,36,14,1,36,104,0,8,2,0.208,0.283,0.354,0.637
+351,593871,Jorge,Polanco,Y,Jorge Polanco,MIN,SS,28,152,588,97,158,35,2,33,98,11,6,45,118,0,6,5,0.269,0.323,0.503,0.826
+352,457763,Buster,Posey,Y,Buster Posey,SF,C,34,113,395,68,120,23,0,18,56,0,0,56,87,0,2,1,0.304,0.39,0.499,0.889
+353,595777,Jurickson,Profar,Y,Jurickson Profar,SD,2B,28,137,353,47,80,17,2,4,33,10,5,49,65,1,2,6,0.227,0.329,0.32,0.649
+355,405395,Albert,Pujols,Y,Albert Pujols,LAA,1B,41,24,86,9,17,0,0,5,12,1,0,3,13,0,0,3,0.198,0.25,0.372,0.622
+356,596451,Roman,Quinn,Y,Roman Quinn,PHI,OF,28,28,52,8,9,2,2,0,2,4,3,6,19,0,0,4,0.173,0.306,0.288,0.594
+357,663728,Cal,Raleigh,Y,Cal Raleigh,SEA,C,24,47,139,6,25,12,0,2,13,0,0,7,52,0,1,1,0.18,0.223,0.309,0.532
+358,623912,Harold,Ramirez,Y,Harold Ramirez,CLE,OF,27,99,339,33,91,21,1,7,41,3,1,14,56,0,3,5,0.268,0.305,0.398,0.703
+359,608070,Jose,Ramirez,Y,Jose Ramirez,CLE,3B,29,152,552,111,147,32,5,36,103,27,4,72,87,0,5,7,0.266,0.355,0.538,0.893
+360,467092,Wilson,Ramos,Y,Wilson Ramos,DET,C,34,35,120,12,24,5,0,6,13,0,0,6,29,0,0,0,0.2,0.238,0.392,0.63
+361,592663,J.T.,Realmuto,Y,J.T. Realmuto,PHI,C,30,134,476,64,125,25,4,17,73,13,3,48,129,0,2,11,0.263,0.343,0.439,0.782
+362,502210,Josh,Reddick,Y,Josh Reddick,ARI,OF,34,54,151,15,39,11,0,2,21,0,0,6,31,0,1,0,0.258,0.285,0.371,0.656
+363,543685,Anthony,Rendon,Y,Anthony Rendon,LAA,3B,31,58,217,24,52,13,0,6,34,0,0,29,41,0,2,1,0.24,0.329,0.382,0.711
+364,592669,Hunter,Renfroe,Y,Hunter Renfroe,BOS,OF,29,144,521,89,135,33,0,31,96,1,2,44,130,0,6,1,0.259,0.315,0.501,0.816
+365,650859,Luis,Rengifo,Y,Luis Rengifo,LAA,2B,24,54,174,22,35,1,0,6,18,1,0,9,38,3,2,2,0.201,0.246,0.31,0.556
+366,614177,Franmil,Reyes,Y,Franmil Reyes,CLE,DH,26,115,418,57,106,18,2,30,85,4,1,43,149,0,3,2,0.254,0.324,0.522,0.846
+367,622569,Pablo,Reyes,Y,Pablo Reyes,MIL,OF,28,53,78,12,20,5,0,1,3,4,0,9,15,0,0,0,0.256,0.333,0.359,0.692
+368,622682,Victor,Reyes,Y,Victor Reyes,DET,OF,27,76,209,26,54,10,4,5,22,5,1,8,55,2,1,0,0.258,0.284,0.416,0.7
+369,668804,Bryan,Reynolds,Y,Bryan Reynolds,PIT,OF,26,159,559,93,169,35,8,24,90,5,2,75,119,0,4,8,0.302,0.39,0.522,0.912
+370,663586,Austin,Riley,Y,Austin Riley,ATL,3B,24,160,590,91,179,33,1,33,107,0,1,52,168,0,8,12,0.303,0.367,0.531,0.898
+371,621458,Edwin,Rios,Y,Edwin Rios,LAD,3B,27,25,51,4,4,0,0,1,1,0,0,7,18,0,0,2,0.078,0.217,0.137,0.354
+372,425784,Rene,Rivera,Y,Rene Rivera,CLE,C,38,21,55,6,13,3,0,2,9,0,0,4,24,3,0,1,0.236,0.3,0.4,0.7
+374,519203,Anthony,Rizzo,Y,Anthony Rizzo,NYY,1B,32,49,173,32,43,7,0,8,21,2,0,16,28,0,2,9,0.249,0.34,0.428,0.768
+375,543706,Daniel,Robertson,Y,Daniel Robertson,MIL,2B,27,50,73,10,12,2,0,2,4,0,0,12,28,1,1,3,0.164,0.303,0.274,0.577
+376,621002,Daniel,Robertson,Y,Daniel Robertson,MIL,2B,27,50,73,10,12,2,0,2,4,0,0,12,28,1,1,3,0.164,0.303,0.274,0.577
+377,673357,Luis,Robert,Y,Luis Robert,CWS,OF,24,68,275,42,93,22,1,13,43,6,1,14,61,0,2,5,0.338,0.378,0.567,0.945
+378,645302,Victor,Robles,Y,Victor Robles,WAS,OF,24,107,315,37,64,21,1,2,19,8,6,33,85,4,1,16,0.203,0.31,0.295,0.605
+379,663898,Brendan,Rodgers,Y,Brendan Rodgers,COL,2B,25,102,387,49,110,21,3,15,51,0,0,19,84,0,2,7,0.284,0.328,0.47,0.798
+380,668670,Jake,Rogers,Y,Jake Rogers,DET,C,26,38,113,17,27,5,3,6,17,1,0,11,46,3,0,0,0.239,0.306,0.496,0.802
+381,668942,Josh,Rojas,Y,Josh Rojas,ARI,2B,27,139,484,69,128,32,3,11,44,9,4,58,137,1,3,0,0.264,0.341,0.411,0.752
+382,500743,Miguel,Rojas,Y,Miguel Rojas,MIA,SS,32,132,495,66,131,30,3,9,48,13,3,37,74,1,1,5,0.265,0.322,0.392,0.714
+383,461865,Andrew,Romine,Y,Andrew Romine,CHC,SS,35,26,60,7,11,2,0,1,5,0,1,4,24,0,0,0,0.183,0.234,0.267,0.501
+384,519222,Austin,Romine,Y,Austin Romine,CHC,C,32,28,60,5,13,2,0,1,5,0,0,2,22,0,0,0,0.217,0.242,0.3,0.542
+385,602922,Jose,Rondon,Y,Jose Rondon,STL,2B,27,63,80,13,21,3,0,3,9,2,0,8,17,0,2,0,0.263,0.322,0.413,0.735
+386,667670,Brent,Rooker,Y,Brent Rooker,MIN,OF,26,58,189,25,38,10,0,9,16,0,0,15,70,0,0,9,0.201,0.291,0.397,0.688
+387,642708,Amed,Rosario,Y,Amed Rosario,CLE,SS,25,141,550,77,155,25,6,11,57,13,0,31,120,0,4,3,0.282,0.321,0.409,0.73
+389,592696,Eddie,Rosario,Y,Eddie Rosario,ATL,OF,30,33,96,13,26,4,2,7,16,2,1,9,14,0,1,0,0.271,0.33,0.573,0.903
+390,573131,Darin,Ruf,Y,Darin Ruf,SF,OF,35,117,262,41,71,13,2,16,43,2,0,46,87,0,1,3,0.271,0.385,0.519,0.904
+391,660688,Keibert,Ruiz,Y,Keibert Ruiz,WAS,C,23,23,81,9,23,3,0,2,14,0,0,6,4,0,0,2,0.284,0.348,0.395,0.743
+392,547004,Rio,Ruiz,Y,Rio Ruiz,BAL,3B,27,32,90,10,15,3,0,3,6,2,0,9,29,1,0,1,0.167,0.25,0.3,0.55
+393,596142,Gary,Sanchez,Y,Gary Sanchez,NYY,C,28,117,383,54,78,13,1,23,54,0,0,52,121,0,0,5,0.204,0.307,0.423,0.73
+394,660821,Jesus,Sanchez,Y,Jesus Sanchez,MIA,OF,24,64,227,27,57,8,2,14,36,0,1,20,78,0,1,3,0.251,0.319,0.489,0.808
+395,467055,Pablo,Sandoval,Y,Pablo Sandoval,ATL,1B,35,69,73,11,13,0,0,4,11,0,0,11,25,0,0,2,0.178,0.302,0.342,0.644
+396,593934,Miguel,Sano,Y,Miguel Sano,MIN,1B,28,135,470,68,105,24,0,30,75,2,1,59,183,0,1,2,0.223,0.312,0.466,0.778
+397,623993,Anthony,Santander,Y,Anthony Santander,BAL,OF,26,110,406,54,98,24,0,18,50,1,1,23,101,1,4,4,0.241,0.286,0.433,0.719
+398,467793,Carlos,Santana,Y,Carlos Santana,KC,1B,35,158,565,66,121,15,0,19,69,2,0,86,102,0,5,3,0.214,0.319,0.342,0.661
+399,542454,Danny,Santana,Y,Danny Santana,BOS,1B,30,38,116,15,21,2,1,5,14,4,2,10,30,0,0,1,0.181,0.252,0.345,0.597
+400,570731,Jonathan,Schoop,Y,Jonathan Schoop,DET,2B,30,156,623,85,173,30,1,22,84,2,0,37,133,0,8,6,0.278,0.32,0.435,0.755
+401,621011,Max,Schrock,Y,Max Schrock,CIN,2B,27,53,125,19,36,7,2,3,14,1,1,8,24,0,1,0,0.288,0.328,0.448,0.776
+403,656941,Kyle,Schwarber,Y,Kyle Schwarber,BOS,OF,28,41,134,34,39,10,0,7,18,0,0,33,39,0,0,1,0.291,0.435,0.522,0.957
+404,608369,Corey,Seager,Y,Corey Seager,LAD,SS,27,95,353,54,108,22,3,16,57,1,1,48,66,0,3,5,0.306,0.394,0.521,0.915
+405,572122,Kyle,Seager,Y,Kyle Seager,SEA,3B,33,159,603,73,128,29,1,35,101,3,1,59,161,0,4,4,0.212,0.285,0.438,0.723
+406,516416,Jean,Segura,Y,Jean Segura,PHI,2B,31,131,514,76,149,27,3,14,58,9,3,39,78,1,4,9,0.29,0.348,0.436,0.784
+407,543760,Marcus,Semien,Y,Marcus Semien,TOR,SS,31,162,652,115,173,39,2,45,102,15,1,66,146,0,3,3,0.265,0.334,0.538,0.872
+408,669222,Nick,Senzel,Y,Nick Senzel,CIN,OF,26,36,111,18,28,4,0,1,8,2,5,12,16,0,1,0,0.252,0.323,0.315,0.638
+409,600474,Pedro,Severino,Y,Pedro Severino,BAL,C,28,113,379,32,94,18,0,11,46,0,0,34,109,0,5,1,0.248,0.308,0.383,0.691
+410,543768,Travis,Shaw,Y,Travis Shaw,MIL,3B,31,56,178,14,34,8,0,6,28,0,0,19,51,1,1,3,0.191,0.279,0.337,0.616
+411,642423,Magneuris,Sierra,Y,Magneuris Sierra,MIA,OF,25,123,209,27,48,6,1,0,5,11,0,15,50,1,0,0,0.23,0.281,0.268,0.549
+412,592743,Andrelton,Simmons,Y,Andrelton Simmons,MIN,SS,32,131,412,37,92,12,0,3,31,1,0,32,62,3,1,3,0.223,0.283,0.274,0.557
+413,642082,Chance,Sisco,Y,Chance Sisco,BAL,C,26,23,65,4,10,2,0,0,3,0,0,6,18,0,0,2,0.154,0.247,0.185,0.432
+414,596103,Austin,Slater,Y,Austin Slater,SF,OF,28,129,274,39,66,12,1,12,32,15,2,28,84,0,0,4,0.241,0.32,0.423,0.743
+415,642086,Dominic,Smith,Y,Dominic Smith,NYM,1B,26,145,446,43,109,20,0,11,58,2,1,32,112,0,6,9,0.244,0.304,0.363,0.667
+416,607345,Kevan,Smith,Y,Kevan Smith,ATL,C,33,30,91,6,15,3,0,0,3,0,0,10,29,0,0,0,0.165,0.248,0.198,0.446
+417,656976,Pavin,Smith,Y,Pavin Smith,ARI,1B,25,145,498,68,133,27,4,11,49,1,0,42,106,0,1,4,0.267,0.328,0.404,0.732
+418,669257,Will,Smith,Y,Will Smith,LAD,C,26,130,414,71,107,19,2,25,76,3,0,58,101,0,11,18,0.258,0.365,0.495,0.86
+419,519299,Eric,Sogard,Y,Eric Sogard,CHC,2B,35,78,169,16,42,6,1,1,12,3,1,9,30,0,2,0,0.249,0.283,0.314,0.597
+420,669256,Nick,Solak,Y,Nick Solak,TEX,2B,26,127,458,57,111,18,2,11,49,7,5,34,107,2,2,15,0.242,0.314,0.362,0.676
+421,456781,Donovan,Solano,Y,Donovan Solano,SF,2B,33,101,307,35,86,17,0,7,31,2,0,25,58,1,4,7,0.28,0.344,0.404,0.748
+423,624585,Jorge,Soler,Y,Jorge Soler,ATL,OF,29,55,208,36,56,11,0,14,33,0,0,29,45,0,2,1,0.269,0.358,0.524,0.882
+424,624641,Edmundo,Sosa,Y,Edmundo Sosa,STL,2B,25,113,288,39,78,8,4,6,27,4,4,17,63,1,2,17,0.271,0.346,0.389,0.735
+425,665742,Juan,Soto,Y,Juan Soto,WAS,OF,22,151,502,111,157,20,2,29,95,9,7,145,93,0,5,2,0.313,0.465,0.534,0.999
+426,543807,George,Springer,Y,George Springer,TOR,OF,32,78,299,59,79,19,1,22,50,4,1,37,79,0,1,4,0.264,0.352,0.555,0.907
+427,607732,Jacob,Stallings,Y,Jacob Stallings,PIT,C,31,112,374,38,92,20,1,8,53,0,0,49,85,0,2,2,0.246,0.335,0.369,0.704
+428,519317,Giancarlo,Stanton,Y,Giancarlo Stanton,NYY,DH,31,139,510,64,139,19,0,35,97,0,0,63,157,0,3,3,0.273,0.354,0.516,0.87
+429,545358,Max,Stassi,Y,Max Stassi,LAA,C,30,87,282,45,68,11,1,13,35,0,0,28,101,0,1,8,0.241,0.326,0.426,0.752
+430,663886,Tyler,Stephenson,Y,Tyler Stephenson,CIN,C,25,132,350,56,100,21,0,10,45,0,0,41,75,0,5,6,0.286,0.366,0.431,0.797
+431,664057,Andrew,Stevenson,Y,Andrew Stevenson,WAS,OF,27,109,192,22,44,6,0,5,23,1,1,13,61,2,1,5,0.229,0.294,0.339,0.633
+432,596115,Trevor,Story,Y,Trevor Story,COL,SS,28,142,526,88,132,34,5,24,75,20,6,53,139,0,5,11,0.251,0.329,0.471,0.8
+434,664702,Myles,Straw,Y,Myles Straw,CLE,OF,26,60,239,42,68,16,0,2,14,13,1,29,50,0,0,0,0.285,0.362,0.377,0.739
+435,553993,Eugenio,Suarez,Y,Eugenio Suarez,CIN,3B,30,145,505,71,100,23,0,31,79,0,1,56,171,0,5,8,0.198,0.286,0.428,0.714
+436,435559,Kurt,Suzuki,Y,Kurt Suzuki,LAA,C,38,72,219,17,49,8,0,6,16,0,0,12,44,2,3,11,0.224,0.294,0.342,0.636
+437,621020,Dansby,Swanson,Y,Dansby Swanson,ATL,SS,27,160,588,78,146,33,2,27,88,9,3,52,167,1,7,5,0.248,0.311,0.449,0.76
+438,606132,Raimel,Tapia,Y,Raimel Tapia,COL,OF,27,133,487,69,133,26,2,6,50,20,6,40,70,1,4,1,0.273,0.327,0.372,0.699
+439,643565,Mike,Tauchman,Y,Mike Tauchman,SF,OF,30,64,152,21,27,4,0,4,15,1,3,22,52,0,0,1,0.178,0.286,0.283,0.569
+440,665750,Leody,Taveras,Y,Leody Taveras,TEX,OF,23,49,174,14,28,6,2,3,9,10,1,9,60,1,0,1,0.161,0.207,0.27,0.477
+441,621035,Chris,Taylor,Y,Chris Taylor,LAD,2B,31,148,507,92,129,25,4,20,73,13,1,63,167,1,3,8,0.254,0.344,0.438,0.782
+442,572191,Michael,Taylor,Y,Michael Taylor,KC,OF,30,142,483,58,118,16,1,12,54,14,7,33,144,2,5,5,0.244,0.297,0.356,0.653
+443,621438,Tyrone,Taylor,Y,Tyrone Taylor,MIL,OF,27,93,243,33,60,9,3,12,43,6,1,20,59,0,1,7,0.247,0.321,0.457,0.778
+445,642133,Rowdy,Tellez,Y,Rowdy Tellez,TOR,1B,26,50,139,12,29,4,1,4,8,0,0,9,33,0,0,3,0.209,0.272,0.338,0.61
+446,657041,Lane,Thomas,Y,Lane Thomas,WAS,OF,26,45,178,33,48,14,2,7,27,4,2,27,46,0,1,0,0.27,0.364,0.489,0.853
+447,664789,Ka'ai,Tom,Y,Ka'ai Tom,PIT,OF,27,39,92,9,14,2,1,2,11,1,0,17,30,0,3,5,0.152,0.308,0.261,0.569
+449,647351,Abraham,Toro,Y,Abraham Toro,HOU,3B,24,35,109,17,23,1,0,6,20,3,1,9,21,0,1,3,0.211,0.287,0.385,0.672
+450,650402,Gleyber,Torres,Y,Gleyber Torres,NYY,SS,24,127,459,50,119,22,0,9,51,14,6,50,104,2,4,1,0.259,0.331,0.366,0.697
+451,620443,Luis,Torrens,Y,Luis Torrens,SEA,C,25,108,346,39,84,16,2,15,47,0,0,28,99,0,3,1,0.243,0.299,0.431,0.73
+452,591720,Ronald,Torreyes,Y,Ronald Torreyes,PHI,SS,29,112,318,30,77,10,1,7,41,2,1,19,41,5,1,1,0.242,0.286,0.346,0.632
+453,666211,Taylor,Trammell,Y,Taylor Trammell,SEA,OF,24,51,156,23,25,7,0,8,18,2,3,17,75,2,0,3,0.16,0.256,0.359,0.615
+454,624431,Jose,Trevino,Y,Jose Trevino,TEX,C,28,89,285,23,68,14,0,5,30,1,1,12,57,2,3,0,0.239,0.267,0.34,0.607
+455,545361,Mike,Trout,Y,Mike Trout,LAA,OF,30,36,117,23,39,8,1,8,18,2,0,27,41,0,0,2,0.333,0.466,0.624,1.09
+456,657061,Cole,Tucker,Y,Cole Tucker,PIT,OF,25,43,117,15,26,4,2,2,12,2,2,13,33,0,1,0,0.222,0.298,0.342,0.64
+457,663656,Kyle,Tucker,Y,Kyle Tucker,HOU,OF,24,140,506,83,149,37,3,30,92,14,2,53,90,0,5,1,0.294,0.359,0.557,0.916
+458,457759,Justin,Turner,Y,Justin Turner,LAD,3B,36,151,533,87,148,22,0,27,87,3,0,61,98,0,6,12,0.278,0.361,0.471,0.832
+460,607208,Trea,Turner,Y,Trea Turner,LAD,SS,28,52,207,41,70,17,0,10,28,11,2,15,33,0,2,2,0.338,0.385,0.565,0.95
+461,457708,Justin,Upton,Y,Justin Upton,LAA,OF,34,90,318,47,67,12,0,17,41,4,1,39,107,0,3,1,0.211,0.296,0.409,0.705
+462,649966,Luis,Urias,Y,Luis Urias,MIL,SS,24,150,490,77,122,25,1,23,75,5,1,63,116,1,3,10,0.249,0.345,0.445,0.79
+463,642162,Pat,Valaika,Y,Pat Valaika,BAL,2B,29,91,259,17,52,8,0,5,25,1,1,16,76,1,3,2,0.201,0.25,0.29,0.54
+464,591971,Breyvic,Valera,Y,Breyvic Valera,TOR,2B,29,39,87,10,22,6,0,1,15,1,0,8,12,1,1,0,0.253,0.313,0.356,0.669
+465,642165,Josh,VanMeter,Y,Josh VanMeter,ARI,2B,26,112,274,26,58,17,2,6,36,3,2,33,83,0,2,1,0.212,0.297,0.354,0.651
+466,662139,Daulton,Varsho,Y,Daulton Varsho,ARI,C,25,95,284,41,70,17,2,11,38,6,0,30,67,1,0,0,0.246,0.318,0.437,0.755
+467,683734,Andrew,Vaughn,Y,Andrew Vaughn,CWS,1B,23,127,417,56,98,22,0,15,48,1,1,41,101,0,5,6,0.235,0.309,0.396,0.705
+468,543877,Christian,Vazquez,Y,Christian Vazquez,BOS,C,31,138,458,51,118,23,1,6,49,8,4,33,84,1,4,2,0.258,0.308,0.352,0.66
+469,623205,Andrew,Velazquez,Y,Andrew Velazquez,NYY,SS,27,28,67,11,15,4,1,1,6,4,1,1,23,0,0,0,0.224,0.235,0.358,0.593
+470,657077,Alex,Verdugo,Y,Alex Verdugo,BOS,OF,25,146,544,88,157,32,2,13,63,6,2,51,96,0,5,4,0.289,0.351,0.426,0.777
+471,542340,Jonathan,Villar,Y,Jonathan Villar,NYM,2B,30,142,454,63,113,18,2,18,42,14,7,46,132,2,0,3,0.249,0.322,0.416,0.738
+473,519390,Stephen,Vogt,Y,Stephen Vogt,ATL,C,36,26,78,7,13,0,0,2,8,0,0,8,20,0,1,0,0.167,0.241,0.244,0.485
+474,572228,Luke,Voit,Y,Luke Voit,NYY,1B,30,68,213,26,51,7,1,11,35,0,0,21,74,0,0,7,0.239,0.328,0.437,0.765
+475,458015,Joey,Votto,Y,Joey Votto,CIN,1B,38,129,448,73,119,23,1,36,99,1,0,77,127,0,4,4,0.266,0.375,0.563,0.938
+476,664774,LaMonte,Wade,Y,LaMonte Wade,SF,OF,27,109,336,52,85,17,3,18,56,6,1,33,89,4,3,5,0.253,0.326,0.482,0.808
+477,642180,Tyler,Wade,Y,Tyler Wade,NYY,2B,26,103,127,31,34,5,1,0,5,17,6,16,37,0,0,1,0.268,0.354,0.323,0.677
+478,572233,Christian,Walker,Y,Christian Walker,ARI,1B,30,115,401,55,98,23,1,10,46,0,0,38,106,0,2,4,0.244,0.315,0.382,0.697
+479,595453,Chad,Wallach,Y,Chad Wallach,MIA,C,29,23,60,2,12,2,1,0,6,0,0,3,32,0,2,1,0.2,0.242,0.267,0.509
+480,670764,Taylor,Walls,Y,Taylor Walls,TB,SS,25,54,152,15,32,10,0,1,15,4,2,23,49,1,0,0,0.211,0.314,0.296,0.61
+481,665120,Jared,Walsh,Y,Jared Walsh,LAA,1B,28,144,530,70,147,34,1,29,98,2,1,48,152,0,3,4,0.277,0.34,0.509,0.849
+482,621493,Taylor,Ward,Y,Taylor Ward,LAA,OF,27,65,208,33,52,15,0,8,33,1,1,20,55,2,1,6,0.25,0.332,0.438,0.77
+483,621563,Joey,Wendle,Y,Joey Wendle,TB,2B,31,136,460,73,122,31,4,11,54,8,6,28,113,0,3,10,0.265,0.319,0.422,0.741
+484,657108,Evan,White,Y,Evan White,SEA,1B,25,30,97,8,14,3,0,2,9,0,0,6,31,0,0,1,0.144,0.202,0.237,0.439
+485,642211,Justin,Williams,Y,Justin Williams,STL,OF,26,51,119,10,19,0,0,4,11,0,1,17,46,0,0,1,0.16,0.27,0.261,0.531
+486,608385,Jesse,Winker,Y,Jesse Winker,CIN,OF,28,110,423,77,129,32,1,24,71,1,0,53,75,0,0,9,0.305,0.394,0.556,0.95
+487,621550,Patrick,Wisdom,Y,Patrick Wisdom,CHC,1B,30,106,338,54,78,13,0,28,61,4,1,32,153,0,0,4,0.231,0.305,0.518,0.823
+488,543939,Kolten,Wong,Y,Kolten Wong,MIL,2B,31,116,445,70,121,32,2,14,50,12,5,31,83,0,3,13,0.272,0.335,0.447,0.782
+489,642851,Austin,Wynns,Y,Austin Wynns,BAL,C,30,45,130,14,24,4,0,4,14,1,0,8,31,1,0,0,0.185,0.232,0.308,0.54
+490,573262,Mike,Yastrzemski,Y,Mike Yastrzemski,SF,OF,31,139,468,75,105,28,3,25,71,4,0,51,131,1,3,9,0.224,0.311,0.457,0.768
+491,592885,Christian,Yelich,Y,Christian Yelich,MIL,OF,29,117,399,70,99,19,2,9,51,9,3,70,113,0,3,3,0.248,0.362,0.373,0.735
+492,605548,Bradley,Zimmer,Y,Bradley Zimmer,CLE,OF,28,99,299,44,68,9,1,8,35,15,3,30,122,0,4,15,0.227,0.325,0.344,0.669
+493,475582,Ryan,Zimmerman,Y,Ryan Zimmerman,WAS,1B,37,110,255,27,62,16,0,14,46,0,0,16,77,0,2,0,0.243,0.286,0.471,0.757
+494,572287,Mike,Zunino,Y,Mike Zunino,TB,C,30,109,333,64,72,11,2,33,62,0,0,34,132,0,1,7,0.216,0.301,0.559,0.86
+495,628450,Yadiel,Hernandez,Y,Yadiel Hernandez,WAS,OF,34,112,264,33,72,8,1,9,32,3,0,22,59,0,2,1,0.273,0.329,0.413,0.742
+496,596056,John,Nogowski,Y,John Nogowski,PIT,1B,28,33,111,12,29,7,0,1,14,0,1,11,20,0,1,0,0.261,0.325,0.351,0.676
+497,650559,Bryan,De La Cruz,Y,Bryan De La Cruz,MIA,OF,24,58,199,17,59,7,2,5,19,1,1,18,53,0,1,1,0.296,0.356,0.427,0.783
+498,628451,Andy,Ibanez,Y,Andy Ibanez,TEX,2B,28,76,253,31,70,15,2,7,25,0,0,15,35,1,1,2,0.277,0.321,0.435,0.756
+499,656847,DJ,Peters,Y,DJ Peters,TEX,OF,25,52,197,24,39,7,1,12,34,2,0,4,68,0,3,2,0.198,0.218,0.426,0.644
+500,656403,Drew,Ellis,Y,Drew Ellis,ARI,3B,25,28,69,10,9,2,0,1,5,0,0,10,27,0,0,4,0.13,0.277,0.203,0.48
+501,602104,Ramon,Urias,Y,Ramon Urias,BAL,2B,27,85,262,33,73,14,0,7,38,1,2,28,76,0,0,6,0.279,0.361,0.412,0.773
+502,664874,Seby,Zavala,Y,Seby Zavala,CWS,C,28,37,93,15,17,3,0,5,15,0,0,6,41,4,0,1,0.183,0.24,0.376,0.616
+503,660634,Yonny,Hernandez,Y,Yonny Hernandez,TEX,2B,23,43,143,15,31,5,0,0,6,11,2,17,32,1,1,4,0.217,0.315,0.252,0.567
+504,676694,Jake,Meyers,Y,Jake Meyers,HOU,OF,25,49,146,22,38,8,0,6,28,3,0,10,50,2,1,4,0.26,0.323,0.438,0.761
+505,660829,Hoy,Park,Y,Hoy Park,PIT,SS,25,44,127,16,25,5,2,3,14,1,1,18,38,1,1,1,0.197,0.299,0.339,0.638
+506,666801,Rodolfo,Castro,Y,Rodolfo Castro,PIT,2B,22,31,86,9,17,2,0,5,8,0,0,6,27,0,0,1,0.198,0.258,0.395,0.653
+507,613564,Jason,Vosler,Y,Jason Vosler,SF,3B,28,41,73,12,13,4,0,3,9,2,0,7,21,0,1,1,0.178,0.256,0.356,0.612
+508,656537,Derek,Hill,Y,Derek Hill,DET,OF,25,49,139,19,36,3,3,3,14,6,3,10,42,0,0,1,0.259,0.313,0.388,0.701
+509,657757,Gavin,Sheets,Y,Gavin Sheets,CWS,OF,25,54,160,23,40,8,0,11,34,0,0,16,40,0,1,2,0.25,0.324,0.506,0.83
+510,642201,Eli,White,Y,Eli White,TEX,OF,27,64,198,26,35,6,1,6,15,4,3,18,66,0,0,4,0.177,0.259,0.308,0.567
+511,643524,Frank,Schwindel,Y,Frank Schwindel,CHC,1B,29,56,222,42,76,19,1,13,40,2,1,16,36,0,0,1,0.342,0.389,0.613,1.002
