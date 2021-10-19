@@ -15,22 +15,14 @@ def index():
 
 @app.route('/result', methods=["GET", "POST"])
 
-
-        
+def player_submit():
     
-@app.route('/messenger', methods=["GET", "POST"])
-def messenger ():
-    return render_template('chatbot.html', **locals())
-
-@app.route('/chatbot', methods=["GET", "POST"])
-def chatbotResponse():
-
-    if request.method == 'POST':
-        the_question = request.form['question']
-
-        response = processor.chatbot_response(the_question)
-
-    return jsonify({"response": response })
+    user_input = request.args
+    
+    X_test = user_input['player_name']
+    
+    salary = pickle.load(open('../model/salary_model.pkl', 'rb'))
+    
 
 
 
