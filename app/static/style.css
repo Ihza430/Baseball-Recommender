@@ -89,6 +89,21 @@ button:active {
     top:1px;
 }
 
-tr {
-    background-color: grey;
+.table {
+    border-spacing: 0;
+    background-color: white;
+}
+
+.table_header {
+    background-color: #e5e5e5;
+    text-align: left;
+    text-transform:uppercase;
+}
+
+.table_row {
+    text-align:left;
+}
+
+.table_cell {
+    padding: 10px; 
 }

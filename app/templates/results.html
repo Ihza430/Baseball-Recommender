@@ -25,16 +25,16 @@
                 
                 <li>
                     {{i['name']}} with a predicted salary of ${{i['salary']}}
-                    <table>
-                        <tr>
+                    <table class = "table">
+                        <tr class = "table_header">
                             {% for header in headings%}
-                            <th>{{header}}</th>
+                            <th class = "table_cell">{{header}}</th>
                             {%endfor%}
                         </tr>
                         {% for row in i['info']%}
-                        <tr>
+                        <tr class = "table_row">
                             {%for cell in row%}
-                            <td>{{cell}}</td>
+                            <td class = "table_cell">{{cell}}</td>
                             {%endfor%}
                         </tr>
                         {%endfor%}
