@@ -1,17 +1,24 @@
-.header{
-    padding: 60px;
-    filter: grayscale(100%);
+body {
+    background-color: white;
+    height: 100%;
+    margin:0;
+    padding: 10px;
+    width: 100%;
 }
 
-img {
-  
+.header{
+    padding: 100px;
+    filter: grayscale(100%);
+    background-image: url(../static/img/baseball_header.jpeg);
+    background-size: cover;
 }
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(38,38,38,1) 47%, rgba(89,89,89,1) 89%);
+    background-color: black;
     overflow: hidden;
+    border-bottom: 7px solid #ddd;
+    border-top: 7px solid #ddd;
 }
 
 /* Style the links inside the navigation bar */
@@ -21,7 +28,7 @@ img {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 24px;
 }
 
 /* Change the color of links on hover */
@@ -34,4 +41,54 @@ img {
 .topnav a.active {
     background-color: #cc0000;
     color: white;
+}
+
+.form {
+    background-color: white;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 8px;
+    height:150px;
+    width: 450px;
+}
+
+input {
+    font-size: 24px;
+}
+
+button {
+    box-shadow:inset 0px 1px 0px 0px #f5978e;
+    background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+    background-color:#f24537;
+    border-radius:6px;
+    border:1px solid #d02718;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:24px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #810e05;
+    height:40px;
+    width:200px;
+}
+
+button:hover {
+    background:linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+    background-color:#c62d1f;
+}
+
+button:active {
+    position:relative;
+    top:1px;
+}
+
+tr {
+    background-color: grey;
 }
