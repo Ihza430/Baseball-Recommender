@@ -89,21 +89,41 @@ button:active {
     top:1px;
 }
 
+.section__header{
+    text-align: center;
+    width: 500px;
+    margin: 30px;
+    border: 4px solid black;
+    background-color: #cc0000;
+    color: white;
+    border-radius:6px;
+}
+
+ol li {
+    font-weight:bold;
+    display: inline;
+}
+
 .table {
     border-spacing: 0;
     background-color: white;
 }
 
-.table_header {
+.table__header {
     background-color: #e5e5e5;
     text-align: left;
     text-transform:uppercase;
 }
 
-.table_row {
+.table__row {
     text-align:left;
+    background-color: white;
 }
 
-.table_cell {
-    padding: 10px; 
+.table__row:nth-child(odd){
+    background-color: #e5e5e5;
+}
+
+.table__cell {
+    padding: 8px; 
 }

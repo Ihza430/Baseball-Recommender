@@ -20,7 +20,8 @@ Datasets:
 
 1. SFBB Player ID Map - PLAYERIDMAP.csv ([source](https://www.smartfantasybaseball.com/tools/))
 2. mlb-player-stats-Batters.csv ([source](https://www.rotowire.com/baseball/stats.php))
-3. All Player Stats ([source](https://baseballsavant.mlb.com/savant-player/))
+3. mlb-player-stats-P.csv ([source](https://www.rotowire.com/baseball/stats.php))
+4. All Player Stats ([source](https://baseballsavant.mlb.com/savant-player/))
 
 ### Data Dictionary
 
@@ -40,3 +41,4 @@ Datasets:
 
 ## Research Resources
 
+https://www.mlb.com/glossary/

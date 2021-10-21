@@ -11,30 +11,44 @@
               <h1 style = 'font-size: 60px; color: white'>Baseball Broadcast</h1>
         </div>
         <div class="topnav">
-          <a class="active" href="#home">Home</a>
-          <a href="#news">Predicted Stats/Salary</a>
+          <a class="active" href="/">Home</a>
+          <a href="/table">Predicted Stats/Salary</a>
           <a href="#about">About</a>
         </div>
         
         <center>
         <div class = "results">
             <h1>{{PlayerName}}: Predicted Salary ${{playerSalary}}</h1>
+            <table class = "table">
+                <tr class = "table__header">
+                    {% for header in headings%}
+                    <th class = "table__cell">{{header}}</th>
+                    {%endfor%}
+                </tr>
+                {% for row in playerStats%}
+                <tr class = "table__row">
+                    {%for cell in row%}
+                    <td class = "table__cell">{{cell}}</td>
+                    {%endfor%}
+                </tr>
+                {%endfor%}
+            </table>
             <h2>Top 10 Recommended Players for {{PlayerName}}.</h2>
             <ol>
                 {%for i in (related_players)%}
                 
                 <li>
-                    {{i['name']}} with a predicted salary of ${{i['salary']}}
+                    <h3>{{i['name']}} with a predicted salary of ${{i['salary']}}</h3>
                     <table class = "table">
-                        <tr class = "table_header">
+                        <tr class = "table__header">
                             {% for header in headings%}
-                            <th class = "table_cell">{{header}}</th>
+                            <th class = "table__cell">{{header}}</th>
                             {%endfor%}
                         </tr>
                         {% for row in i['info']%}
-                        <tr class = "table_row">
+                        <tr class = "table__row">
                             {%for cell in row%}
-                            <td class = "table_cell">{{cell}}</td>
+                            <td class = "table__cell">{{cell}}</td>
                             {%endfor%}
                         </tr>
                         {%endfor%}
