@@ -22,19 +22,33 @@ def player_submit():
     
     name = user_input['PlayerName'].title()
     
-    #Get names of recommended players
-    players = pickle.load(open('../pickles/recommendation.pkl', 'rb'))
-    players = players[name].sort_values()[1:11].index
+    if user_input['Position'] == 'Batter':
     
-    #Get file with player stats
-    stats = pickle.load(open('../pickles/forecast.pkl', 'rb'))
+        #Get names of recommended players
+        players = pickle.load(open('../pickles/recommendation_bat.pkl', 'rb'))
+        
+        #Get file with player stats
+        stats = pickle.load(open('../pickles/forecast_bat.pkl', 'rb'))
+   
+         #Get salary based on forecasted stats
+        salary = pickle.load(open('../pickles/pred_salary_bat.pkl', 'rb'))
+
+    elif user_input['Position'] == 'Pitcher':
+        
+        #Get names of recommended players
+        players = pickle.load(open('../pickles/recommendation_pitch.pkl', 'rb'))
+        
+        #Get file with player stats
+        stats = pickle.load(open('../pickles/forecast_pitch.pkl', 'rb'))
+   
+        #Get salary based on forecasted stats
+        salary = pickle.load(open('../pickles/pred_salary_pitch.pkl', 'rb'))
+    
+    players = players[name].sort_values()[1:11].index
     
     player_stats = stats[stats['name'] == name]
     
     player_stats = player_stats.values
-    
-    #Get salary based on forecasted stats
-    salary = pickle.load(open('../pickles/pred_salary.pkl', 'rb'))
     
     player_salary = salary[salary.index == name]
     
@@ -60,12 +74,12 @@ def player_submit():
     return render_template('results.html', PlayerName = name, playerStats = player_stats, playerSalary = player_salary, related_players = related_players, headings = headings)
 
 
-@app.route('/table', methods=["GET", "POST"])
+@app.route('/table_b', methods=["GET", "POST"])
 
-def table():
+def table_b():
     
     #Get file with player stats
-    data = pickle.load(open('../pickles/forecast.pkl', 'rb'))
+    data = pickle.load(open('../pickles/forecast_bat.pkl', 'rb'))
     
     headings = data.columns.tolist()
     
@@ -80,7 +94,7 @@ def table():
         info = info_player.values.tolist()
         
         #Get salary based on forecasted stats
-        salary = pickle.load(open('../pickles/pred_salary.pkl', 'rb'))
+        salary = pickle.load(open('../pickles/pred_salary_bat.pkl', 'rb'))
 
         player_salary = salary[salary.index == player]
         
@@ -90,8 +104,39 @@ def table():
         
         stats.append({'player': player, 'info':info})
         
-    return render_template('table.html', headings = headings, players = players, stats=stats )
+    return render_template('table_b.html', headings = headings, players = players, stats=stats )
 
+@app.route('/table_p', methods=["GET", "POST"])
+
+def table_p():
+    
+    #Get file with player stats
+    data = pickle.load(open('../pickles/forecast_pitch.pkl', 'rb'))
+    
+    headings = data.columns.tolist()
+    
+    headings.append('salary')
+    
+    players = data['name']
+    stats = []
+    
+    for player in players:
+        info_player = data[data['name'] == player]
+        
+        info = info_player.values.tolist()
+        
+        #Get salary based on forecasted stats
+        salary = pickle.load(open('../pickles/pred_salary_pitch.pkl', 'rb'))
+
+        player_salary = salary[salary.index == player]
+        
+        player_salary = np.rint(player_salary['salary'].values)
+        
+        info[0].extend(player_salary)
+        
+        stats.append({'player': player, 'info':info})
+        
+    return render_template('table_p.html', headings = headings, players = players, stats=stats )
 
 
 if __name__ == '__main__':
