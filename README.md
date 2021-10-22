@@ -7,7 +7,24 @@
 ## Project Structure
 
 1. README.md
-2. <details><summary>Jupyter Notebooks () </summary>
+2. <details><summary>Jupyter Notebooks (17) </summary>
+    1.1_stats_b_data.ipynb
+    1.2_stats_p_data.ipynb
+    1.3_salary_data.ipynb
+    2.1_active_players_cleaning.ipynb
+    2.2_stats_b_cleaning.ipynb
+    2.3_stats_p_cleaning.ipynb
+    2.4_salary_b_cleaning.ipynb
+    2.5_salary_p_cleaning.ipynb
+    3_eda.ipynb
+    4.1_time_series_b.ipynb
+    4.2_time_series_p.ipynb
+    5.1_regression_b.ipynb
+    5.2_regression_p.ipynb
+    6.1_kmean_b.ipynb
+    6.2_kmean_p.ipynb
+    7.1_recommender_b.ipynb
+    7.2_recommender_p.ipynb
    </details>
 3. PDF File
 4. Datasets
